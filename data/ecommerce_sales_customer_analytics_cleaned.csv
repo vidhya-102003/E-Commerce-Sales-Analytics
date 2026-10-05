@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Category,Product,Quantity,Unit_Price,Discount_Percent,Sales,Profit,Payment_Method,Order_Status
+ORD10001,2025-06-10,CUST1052,Nandhini G.,Delhi,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,UPI,Delivered
+ORD10002,2025-04-29,CUST1102,Divya W.,Hyderabad,Electronics,Bluetooth Speaker,3,1999,5.0,5697.15,1125.19,Credit Card,Delivered
+ORD10003,2025-05-29,CUST1141,Swathi B.,Jaipur,Electronics,Smart Watch,1,2499,20.0,1999.2,319.87,Credit Card,Delivered
+ORD10004,2025-05-30,CUST1038,Pooja W.,Mumbai,Fashion,Sports Shoes,2,2199,20.0,3518.4,738.86,Credit Card,Delivered
+ORD10005,2025-10-20,CUST1162,Suresh E.,Hyderabad,Fashion,Women's Kurti,5,999,0.0,4995.0,1598.4,UPI,Delivered
+ORD10006,2025-05-23,CUST1129,Suresh I.,Mumbai,Home & Kitchen,Storage Container Set,3,799,15.0,2037.45,229.21,UPI,Delivered
+ORD10007,2025-06-09,CUST1001,Hari K.,Jaipur,Electronics,Smart Watch,4,2499,15.0,8496.6,1550.63,UPI,Delivered
+ORD10008,2025-01-11,CUST1000,Vijay T.,Jaipur,Electronics,Wireless Headphones,3,1499,0.0,4497.0,1259.16,Cash on Delivery,Delivered
+ORD10009,2025-05-18,CUST1077,Divya L.,Coimbatore,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,UPI,Delivered
+ORD10010,2025-03-19,CUST1021,Swathi D.,Chennai,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,Debit Card,Delivered
+ORD10011,2025-03-18,CUST1007,Rahul V.,Jaipur,Fashion,Women's Kurti,1,999,10.0,899.1,247.25,UPI,Delivered
+ORD10012,2025-09-11,CUST1066,Hari Z.,Jaipur,Books,Programming Book,1,799,0.0,799.0,175.78,Debit Card,Delivered
+ORD10013,2025-09-15,CUST1020,Suresh G.,Jaipur,Home & Kitchen,Cookware Set,2,2499,0.0,4998.0,799.68,UPI,Delivered
+ORD10014,2025-11-16,CUST1055,Sneha B.,Mumbai,Electronics,Wireless Headphones,1,1499,5.0,1424.05,366.69,Cash on Delivery,Delivered
+ORD10015,2025-10-18,CUST1038,Pooja W.,Mumbai,Electronics,Wireless Headphones,2,1499,10.0,2698.2,634.08,Cash on Delivery,Delivered
+ORD10016,2025-09-20,CUST1067,Nandhini M.,Delhi,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,Cash on Delivery,Delivered
+ORD10017,2025-03-26,CUST1028,Pooja Q.,Kolkata,Electronics,Power Bank,3,899,20.0,2157.6,237.34,Cash on Delivery,Delivered
+ORD10018,2025-05-26,CUST1102,Divya W.,Hyderabad,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,UPI,Delivered
+ORD10019,2025-11-19,CUST1005,Ravi K.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,UPI,Shipped
+ORD10020,2025-02-11,CUST1102,Divya W.,Hyderabad,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,Credit Card,Delivered
+ORD10021,2025-05-05,CUST1030,Meena D.,Chennai,Home & Kitchen,Cookware Set,1,2499,5.0,2374.05,326.43,Debit Card,Delivered
+ORD10022,2025-06-16,CUST1178,Nandhini W.,Bengaluru,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,UPI,Delivered
+ORD10023,2025-08-29,CUST1050,Rahul C.,Jaipur,Books,Business Book,1,599,10.0,539.1,83.56,Net Banking,Delivered
+ORD10024,2025-10-07,CUST1233,Keerthi W.,Bengaluru,Electronics,Smart Watch,4,2499,10.0,8996.4,1844.26,Credit Card,Delivered
+ORD10025,2025-07-07,CUST1072,Hari K.,Jaipur,Electronics,Wireless Headphones,1,1499,20.0,0.0,0.0,UPI,Cancelled
+ORD10026,2025-10-29,CUST1008,Priya X.,Delhi,Home & Kitchen,Cookware Set,1,2499,25.0,1874.25,93.71,Credit Card,Delivered
+ORD10027,2025-01-19,CUST1153,Vikram V.,Delhi,Fashion,Women's Kurti,1,999,5.0,949.05,282.34,UPI,Delivered
+ORD10028,2025-03-09,CUST1020,Suresh G.,Hyderabad,Electronics,Wireless Headphones,2,1499,0.0,2998.0,839.44,UPI,Delivered
+ORD10029,2025-08-06,CUST1021,Swathi D.,Chennai,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,UPI,Delivered
+ORD10030,2025-04-12,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,3,899,10.0,2427.3,376.23,UPI,Delivered
+ORD10031,2025-02-11,CUST1058,Sneha H.,Delhi,Books,Programming Book,2,799,10.0,1438.2,251.68,Credit Card,Returned
+ORD10032,2025-10-15,CUST1054,Suresh H.,Ahmedabad,Beauty,Perfume,1,1299,15.0,1104.15,201.51,Credit Card,Delivered
+ORD10033,2025-06-16,CUST1022,Pooja R.,Hyderabad,Electronics,Wireless Headphones,1,1499,10.0,0.0,0.0,UPI,Cancelled
+ORD10034,2025-04-19,CUST1188,Priya W.,Hyderabad,Books,Novel,1,449,10.0,404.1,54.55,UPI,Delivered
+ORD10035,2025-02-05,CUST1003,Vijay Z.,Hyderabad,Fashion,Men's T-Shirt,2,699,5.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10036,2025-08-20,CUST1018,Rahul E.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,Debit Card,Delivered
+ORD10037,2025-08-17,CUST1017,Lakshmi Y.,Delhi,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,Debit Card,Delivered
+ORD10038,2025-12-19,CUST1001,Hari K.,Jaipur,Electronics,Mixer Grinder,1,3299,15.0,2804.15,315.47,Cash on Delivery,Delivered
+ORD10039,2025-06-13,CUST1042,Ajay I.,Chennai,Home & Kitchen,Cookware Set,2,2499,10.0,4498.2,517.29,Net Banking,Delivered
+ORD10040,2025-03-14,CUST1099,Arun S.,Kolkata,Electronics,Power Bank,1,899,10.0,809.1,125.41,UPI,Delivered
+ORD10041,2025-05-16,CUST1049,Manoj H.,Hyderabad,Home & Kitchen,Cookware Set,1,2499,10.0,0.0,0.0,Debit Card,Cancelled
+ORD10042,2025-12-19,CUST1004,Vikram W.,Ahmedabad,Electronics,Power Bank,4,899,0.0,3596.0,719.2,Cash on Delivery,Delivered
+ORD10043,2025-03-11,CUST1025,Hari G.,Chennai,Fashion,Men's T-Shirt,1,699,15.0,594.15,167.85,UPI,Delivered
+ORD10044,2025-07-15,CUST1000,Vijay T.,Jaipur,Books,Novel,5,449,5.0,2132.75,335.91,Net Banking,Delivered
+ORD10045,2025-09-26,CUST1175,Arun I.,Chennai,Electronics,Bluetooth Speaker,2,1999,15.0,3398.3,518.24,Debit Card,Delivered
+ORD10046,2025-02-18,CUST1001,Hari K.,Jaipur,Fashion,Men's T-Shirt,3,699,15.0,1782.45,503.54,Cash on Delivery,Delivered
+ORD10047,2025-11-12,CUST1070,Anitha E.,Bengaluru,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,Credit Card,Delivered
+ORD10048,2025-05-10,CUST1241,Arun A.,Bengaluru,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,Credit Card,Delivered
+ORD10049,2025-01-05,CUST1055,Sneha B.,Mumbai,Electronics,Bluetooth Speaker,2,1999,5.0,3798.1,750.12,UPI,Delivered
+ORD10050,2025-01-27,CUST1204,Vikram Z.,Jaipur,Beauty,Perfume,1,1299,0.0,1299.0,324.75,Debit Card,Delivered
+ORD10051,2025-06-09,CUST1009,Sneha F.,Bengaluru,Electronics,Smart Watch,1,2499,15.0,2124.15,387.66,Cash on Delivery,Delivered
+ORD10052,2025-05-29,CUST1126,Priya A.,Mumbai,Books,Programming Book,2,799,15.0,1358.3,207.14,Credit Card,Delivered
+ORD10053,2025-09-21,CUST1053,Suresh G.,Hyderabad,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,UPI,Shipped
+ORD10054,2025-08-18,CUST1110,Suresh F.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,Credit Card,Delivered
+ORD10055,2025-07-19,CUST1001,Hari K.,Jaipur,Home & Kitchen,Electric Kettle,2,1299,15.0,2208.3,292.6,Cash on Delivery,Delivered
+ORD10056,2025-02-19,CUST1004,Vikram W.,Ahmedabad,Home & Kitchen,Mixer Grinder,3,3299,15.0,8412.45,946.4,Credit Card,Delivered
+ORD10057,2025-03-08,CUST1003,Vijay Z.,Hyderabad,Beauty,Perfume,2,1299,0.0,2598.0,649.5,Debit Card,Delivered
+ORD10058,2025-10-27,CUST1098,Karthik A.,Pune,Electronics,Smart Watch,2,2499,15.0,4248.3,775.31,Credit Card,Shipped
+ORD10059,2025-02-27,CUST1163,Manoj N.,Pune,Fashion,Sports Shoes,1,2199,5.0,2089.05,579.71,Debit Card,Delivered
+ORD10060,2025-09-16,CUST1122,Nandhini C.,Delhi,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,Cash on Delivery,Delivered
+ORD10061,2025-12-08,CUST1000,Vijay T.,Jaipur,Books,Novel,1,449,20.0,0.0,0.0,Credit Card,Cancelled
+ORD10062,2025-11-22,CUST1174,Manoj H.,Coimbatore,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,Net Banking,Delivered
+ORD10063,2025-05-10,CUST1021,Swathi D.,Chennai,Fashion,Jeans,1,1599,15.0,0.0,0.0,Debit Card,Cancelled
+ORD10064,2025-08-03,CUST1028,Pooja Q.,Kolkata,Fashion,Men's T-Shirt,2,699,20.0,1118.4,290.78,UPI,Delivered
+ORD10065,2025-06-21,CUST1002,Meena U.,Bengaluru,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,Net Banking,Delivered
+ORD10066,2025-09-15,CUST1117,Arun H.,Chennai,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,Debit Card,Delivered
+ORD10067,2025-04-12,CUST1005,Ravi K.,Kolkata,Beauty,Face Wash,1,399,15.0,339.15,78.85,Cash on Delivery,Delivered
+ORD10068,2025-07-28,CUST1061,Hari N.,Kolkata,Fashion,Jeans,2,1599,10.0,2878.2,676.38,Cash on Delivery,Delivered
+ORD10069,2025-10-18,CUST1161,Divya C.,Mumbai,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,Debit Card,Delivered
+ORD10070,2025-12-20,CUST1001,Hari K.,Jaipur,Fashion,Men's T-Shirt,2,699,10.0,1258.2,383.75,Credit Card,Delivered
+ORD10071,2025-10-13,CUST1054,Suresh H.,Ahmedabad,Electronics,Wireless Headphones,1,1499,0.0,1499.0,419.72,Credit Card,Delivered
+ORD10072,2025-04-26,CUST1009,Sneha F.,Bengaluru,Beauty,Moisturizer,1,599,20.0,479.2,91.05,Cash on Delivery,Delivered
+ORD10073,2025-09-21,CUST1020,Suresh G.,Hyderabad,Books,Novel,1,449,10.0,404.1,54.55,Credit Card,Delivered
+ORD10074,2025-05-30,CUST1041,Swathi O.,Hyderabad,Electronics,Bluetooth Speaker,3,1999,0.0,5997.0,1319.34,Credit Card,Delivered
+ORD10075,2025-10-27,CUST1022,Pooja R.,Hyderabad,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,Net Banking,Delivered
+ORD10076,2025-02-05,CUST1086,Karthik A.,Hyderabad,Electronics,Bluetooth Speaker,1,1999,5.0,1899.05,375.06,UPI,Delivered
+ORD10077,2025-11-29,CUST1042,Ajay I.,Chennai,Home & Kitchen,Mixer Grinder,2,3299,10.0,5938.2,801.66,UPI,Delivered
+ORD10078,2025-10-14,CUST1067,Nandhini M.,Delhi,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,Cash on Delivery,Delivered
+ORD10079,2025-10-30,CUST1117,Arun H.,Chennai,Fashion,Sports Shoes,2,2199,15.0,3738.3,869.15,Credit Card,Delivered
+ORD10080,2025-11-07,CUST1060,Rahul E.,Ahmedabad,Home & Kitchen,Cookware Set,2,2499,20.0,3998.4,279.89,Debit Card,Delivered
+ORD10081,2025-07-27,CUST1067,Nandhini M.,Delhi,Electronics,Power Bank,1,899,25.0,674.25,59.0,Net Banking,Delivered
+ORD10082,2025-04-16,CUST1062,Rahul A.,Delhi,Books,Business Book,2,599,10.0,1078.2,167.12,Debit Card,Delivered
+ORD10083,2025-06-07,CUST1025,Hari G.,Chennai,Fashion,Jeans,1,1599,10.0,1439.1,338.19,Cash on Delivery,Delivered
+ORD10084,2025-05-01,CUST1019,Vikram G.,Coimbatore,Electronics,Wireless Headphones,2,1499,20.0,2398.4,455.7,UPI,Delivered
+ORD10085,2025-02-24,CUST1191,Nandhini F.,Kolkata,Beauty,Shampoo,3,499,10.0,1422.15,351.98,Credit Card,Shipped
+ORD10086,2025-01-12,CUST1073,Anitha M.,Jaipur,Fashion,Women's Kurti,2,999,20.0,1598.4,367.63,Credit Card,Delivered
+ORD10087,2025-05-25,CUST1010,Priya U.,Coimbatore,Electronics,Wireless Headphones,4,1499,10.0,5396.4,1268.15,UPI,Delivered
+ORD10088,2025-05-16,CUST1046,Arun L.,Ahmedabad,Fashion,Men's T-Shirt,2,699,20.0,1118.4,290.78,Debit Card,Delivered
+ORD10089,2025-01-03,CUST1018,Rahul E.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,Credit Card,Delivered
+ORD10090,2025-05-24,CUST1210,Keerthi Y.,Hyderabad,Electronics,Wireless Headphones,1,1499,25.0,1124.25,188.31,Credit Card,Delivered
+ORD10091,2025-01-30,CUST1000,Vijay T.,Jaipur,Fashion,Men's T-Shirt,1,699,25.0,524.25,124.51,Net Banking,Delivered
+ORD10092,2025-08-25,CUST1008,Priya X.,Delhi,Books,Programming Book,1,799,10.0,719.1,125.84,Cash on Delivery,Delivered
+ORD10093,2025-10-06,CUST1023,Suresh Z.,Mumbai,Electronics,Smart Watch,5,2499,0.0,12495.0,3123.75,Cash on Delivery,Shipped
+ORD10094,2025-12-14,CUST1044,Arun Y.,Ahmedabad,Books,Novel,1,449,25.0,336.75,22.73,Net Banking,Delivered
+ORD10095,2025-04-25,CUST1166,Arun C.,Delhi,Beauty,Moisturizer,2,599,5.0,1138.1,293.06,Debit Card,Delivered
+ORD10096,2025-04-14,CUST1001,Hari K.,Jaipur,Electronics,Power Bank,2,899,20.0,1438.4,158.22,Debit Card,Delivered
+ORD10097,2025-04-28,CUST1145,Arun N.,Delhi,Beauty,Perfume,4,1299,5.0,4936.2,1122.99,Debit Card,Delivered
+ORD10098,2025-01-05,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,UPI,Delivered
+ORD10099,2025-12-26,CUST1162,Suresh E.,Hyderabad,Home & Kitchen,Storage Container Set,2,799,0.0,1598.0,287.64,UPI,Delivered
+ORD10100,2025-09-05,CUST1000,Vijay T.,Jaipur,Books,Novel,1,449,10.0,404.1,54.55,Credit Card,Delivered
+ORD10101,2025-12-30,CUST1000,Vijay T.,Jaipur,Electronics,Smart Watch,3,2499,25.0,5622.75,773.13,Credit Card,Delivered
+ORD10102,2025-11-17,CUST1102,Divya W.,Hyderabad,Beauty,Perfume,1,1299,10.0,1169.1,239.67,Credit Card,Delivered
+ORD10103,2025-05-01,CUST1248,Manoj Z.,Coimbatore,Books,Business Book,3,599,0.0,1797.0,359.4,Credit Card,Delivered
+ORD10104,2025-10-13,CUST1190,Manoj T.,Delhi,Electronics,Smart Watch,4,2499,0.0,9996.0,2499.0,Debit Card,Delivered
+ORD10105,2025-05-29,CUST1065,Suresh O.,Kolkata,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,Credit Card,Delivered
+ORD10106,2025-03-25,CUST1201,Keerthi M.,Delhi,Electronics,Power Bank,1,899,20.0,719.2,79.11,Cash on Delivery,Delivered
+ORD10107,2025-08-19,CUST1000,Vijay T.,Jaipur,Fashion,Jeans,1,1599,10.0,1439.1,338.19,UPI,Delivered
+ORD10108,2025-10-15,CUST1234,Priya Q.,Hyderabad,Electronics,Bluetooth Speaker,2,1999,0.0,3998.0,879.56,Debit Card,Delivered
+ORD10109,2025-06-10,CUST1044,Arun Y.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Cash on Delivery,Delivered
+ORD10110,2025-09-29,CUST1111,Keerthi C.,Chennai,Home & Kitchen,Electric Kettle,2,1299,5.0,2468.1,438.09,Cash on Delivery,Delivered
+ORD10111,2025-02-07,CUST1152,Divya M.,Bengaluru,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,UPI,Delivered
+ORD10112,2025-08-14,CUST1110,Suresh F.,Kolkata,Fashion,Men's T-Shirt,2,699,0.0,1398.0,489.3,Credit Card,Delivered
+ORD10113,2025-05-22,CUST1054,Suresh H.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,5.0,1899.05,375.06,UPI,Delivered
+ORD10114,2025-10-19,CUST1042,Ajay I.,Chennai,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,Debit Card,Delivered
+ORD10115,2025-05-31,CUST1160,Sneha N.,Delhi,Fashion,Women's Kurti,1,999,5.0,949.05,282.34,Debit Card,Delivered
+ORD10116,2025-04-24,CUST1007,Rahul V.,Jaipur,Electronics,Smart Watch,1,2499,25.0,1874.25,257.71,Credit Card,Delivered
+ORD10117,2025-08-25,CUST1230,Arun X.,Kolkata,Fashion,Women's Kurti,2,999,10.0,1798.2,494.51,UPI,Delivered
+ORD10118,2025-03-07,CUST1107,Priya F.,Mumbai,Fashion,Jeans,1,1599,10.0,1439.1,338.19,UPI,Delivered
+ORD10119,2025-12-27,CUST1007,Rahul V.,Jaipur,Home & Kitchen,Mixer Grinder,2,3299,5.0,6268.1,987.23,Debit Card,Delivered
+ORD10120,2025-12-07,CUST1116,Lakshmi I.,Coimbatore,Electronics,Wireless Headphones,2,1499,0.0,2998.0,839.44,Net Banking,Delivered
+ORD10121,2025-09-15,CUST1053,Suresh G.,Hyderabad,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,Cash on Delivery,Delivered
+ORD10122,2025-09-06,CUST1106,Karthik T.,Jaipur,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,UPI,Delivered
+ORD10123,2025-11-27,CUST1129,Suresh I.,Mumbai,Electronics,Power Bank,4,899,20.0,2876.8,316.45,Debit Card,Delivered
+ORD10124,2025-11-19,CUST1001,Hari K.,Jaipur,Fashion,Jeans,2,1599,5.0,3038.1,782.31,Credit Card,Delivered
+ORD10125,2025-06-29,CUST1048,Ravi S.,Mumbai,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,Cash on Delivery,Delivered
+ORD10126,2025-07-09,CUST1209,Priya V.,Chennai,Fashion,Women's Kurti,3,999,0.0,2997.0,959.04,Credit Card,Delivered
+ORD10127,2025-06-03,CUST1017,Lakshmi Y.,Delhi,Fashion,Men's T-Shirt,4,699,0.0,2796.0,978.6,Credit Card,Delivered
+ORD10128,2025-07-15,CUST1069,Manoj T.,Kolkata,Beauty,Face Wash,4,399,15.0,1356.6,315.41,Net Banking,Delivered
+ORD10129,2025-11-07,CUST1023,Suresh Z.,Mumbai,Beauty,Face Wash,1,399,5.0,379.05,105.19,UPI,Shipped
+ORD10130,2025-09-19,CUST1037,Hari H.,Chennai,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,Net Banking,Shipped
+ORD10131,2025-05-23,CUST1058,Sneha H.,Delhi,Books,Novel,1,449,15.0,381.65,42.94,UPI,Delivered
+ORD10132,2025-12-08,CUST1058,Sneha H.,Delhi,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Net Banking,Delivered
+ORD10133,2025-11-12,CUST1007,Rahul V.,Jaipur,Beauty,Face Wash,1,399,15.0,339.15,78.85,UPI,Delivered
+ORD10134,2025-04-11,CUST1098,Karthik A.,Pune,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,Credit Card,Returned
+ORD10135,2025-09-01,CUST1001,Hari K.,Jaipur,Beauty,Shampoo,2,499,0.0,998.0,269.46,Credit Card,Delivered
+ORD10136,2025-01-12,CUST1003,Vijay Z.,Hyderabad,Electronics,Wireless Headphones,1,1499,20.0,1199.2,227.85,Cash on Delivery,Delivered
+ORD10137,2025-08-27,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Electric Kettle,1,1299,25.0,974.25,85.25,UPI,Delivered
+ORD10138,2025-02-18,CUST1002,Meena U.,Bengaluru,Fashion,Women's Kurti,2,999,5.0,1898.1,564.68,Credit Card,Delivered
+ORD10139,2025-02-11,CUST1041,Swathi O.,Hyderabad,Fashion,Women's Kurti,1,999,5.0,949.05,282.34,UPI,Delivered
+ORD10140,2025-06-15,CUST1073,Anitha M.,Jaipur,Books,Novel,2,449,0.0,898.0,161.64,Cash on Delivery,Delivered
+ORD10141,2025-03-23,CUST1140,Swathi N.,Ahmedabad,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,Debit Card,Delivered
+ORD10142,2025-10-18,CUST1002,Meena U.,Bengaluru,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Credit Card,Delivered
+ORD10143,2025-06-07,CUST1166,Arun C.,Delhi,Fashion,Jeans,1,1599,10.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10144,2025-08-04,CUST1120,Ravi Y.,Pune,Electronics,Smart Watch,2,2499,5.0,4748.1,1080.19,Net Banking,Delivered
+ORD10145,2025-06-07,CUST1029,Anitha R.,Delhi,Beauty,Perfume,2,1299,15.0,2208.3,403.01,Credit Card,Delivered
+ORD10146,2025-05-14,CUST1209,Priya V.,Chennai,Fashion,Men's T-Shirt,2,699,20.0,1118.4,290.78,UPI,Delivered
+ORD10147,2025-03-08,CUST1244,Ajay L.,Mumbai,Fashion,Sports Shoes,2,2199,25.0,3298.5,618.47,UPI,Delivered
+ORD10148,2025-12-02,CUST1007,Rahul V.,Jaipur,Home & Kitchen,Cookware Set,3,2499,0.0,7497.0,1199.52,Cash on Delivery,Shipped
+ORD10149,2025-01-07,CUST1025,Hari G.,Chennai,Beauty,Shampoo,2,499,0.0,998.0,269.46,Credit Card,Delivered
+ORD10150,2025-01-14,CUST1206,Suresh L.,Chennai,Fashion,Women's Kurti,2,999,5.0,1898.1,564.68,Debit Card,Delivered
+ORD10151,2025-03-14,CUST1111,Keerthi C.,Chennai,Electronics,Bluetooth Speaker,1,899,5.0,854.05,151.59,UPI,Delivered
+ORD10152,2025-06-12,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,1,899,10.0,809.1,125.41,UPI,Delivered
+ORD10153,2025-03-07,CUST1135,Manoj H.,Delhi,Fashion,Women's Kurti,4,999,15.0,3396.6,857.64,Cash on Delivery,Delivered
+ORD10154,2025-12-13,CUST1155,Arun O.,Mumbai,Books,Programming Book,2,799,5.0,1518.1,299.82,Credit Card,Delivered
+ORD10155,2025-05-10,CUST1122,Nandhini C.,Delhi,Books,Self Help Book,1,549,5.0,521.55,87.36,Cash on Delivery,Delivered
+ORD10156,2025-07-25,CUST1143,Suresh D.,Pune,Fashion,Men's T-Shirt,3,699,20.0,1677.6,436.18,Cash on Delivery,Delivered
+ORD10157,2025-10-03,CUST1154,Meena B.,Ahmedabad,Beauty,Moisturizer,2,599,5.0,1138.1,293.06,Debit Card,Delivered
+ORD10158,2025-09-13,CUST1006,Anitha H.,Mumbai,Home & Kitchen,Storage Container Set,1,799,15.0,679.15,76.4,Credit Card,Delivered
+ORD10159,2025-09-23,CUST1009,Sneha F.,Bengaluru,Beauty,Moisturizer,1,599,5.0,569.05,146.53,Credit Card,Delivered
+ORD10160,2025-01-25,CUST1081,Arun Y.,Jaipur,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,Debit Card,Delivered
+ORD10161,2025-10-08,CUST1196,Karthik G.,Pune,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,UPI,Delivered
+ORD10162,2025-09-10,CUST1017,Lakshmi Y.,Delhi,Fashion,Jeans,2,1599,15.0,2718.3,577.64,Credit Card,Delivered
+ORD10163,2025-11-06,CUST1068,Vikram G.,Hyderabad,Electronics,Power Bank,1,899,10.0,809.1,125.41,Credit Card,Delivered
+ORD10164,2025-10-16,CUST1097,Priya B.,Hyderabad,Home & Kitchen,Storage Container Set,3,799,15.0,2037.45,229.21,UPI,Delivered
+ORD10165,2025-06-13,CUST1037,Hari H.,Chennai,Beauty,Moisturizer,1,599,10.0,539.1,126.69,Net Banking,Shipped
+ORD10166,2025-04-05,CUST1108,Ravi P.,Coimbatore,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,UPI,Delivered
+ORD10167,2025-09-27,CUST1191,Nandhini F.,Kolkata,Beauty,Shampoo,3,499,20.0,1197.6,215.57,Debit Card,Delivered
+ORD10168,2025-11-17,CUST1078,Sneha T.,Jaipur,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Debit Card,Delivered
+ORD10169,2025-04-20,CUST1055,Sneha B.,Mumbai,Home & Kitchen,Mixer Grinder,1,3299,0.0,3299.0,593.82,Debit Card,Delivered
+ORD10170,2025-12-02,CUST1034,Sneha B.,Hyderabad,Home & Kitchen,Electric Kettle,2,1299,5.0,2468.1,438.09,Credit Card,Delivered
+ORD10171,2025-11-06,CUST1065,Suresh O.,Kolkata,Beauty,Moisturizer,1,599,0.0,599.0,167.72,UPI,Delivered
+ORD10172,2025-08-26,CUST1022,Pooja R.,Hyderabad,Fashion,Women's Kurti,1,999,5.0,949.05,282.34,UPI,Delivered
+ORD10173,2025-01-25,CUST1027,Hari C.,Coimbatore,Fashion,Sports Shoes,2,2199,10.0,3958.2,1009.34,Credit Card,Delivered
+ORD10174,2025-05-21,CUST1054,Suresh H.,Ahmedabad,Fashion,Women's Kurti,1,999,15.0,849.15,214.41,UPI,Delivered
+ORD10175,2025-04-27,CUST1001,Hari K.,Jaipur,Fashion,Men's T-Shirt,2,699,10.0,1258.2,383.75,UPI,Delivered
+ORD10176,2025-01-25,CUST1009,Sneha F.,Bengaluru,Electronics,Wireless Headphones,1,1499,25.0,1124.25,188.31,Credit Card,Delivered
+ORD10177,2025-03-20,CUST1056,Arun P.,Delhi,Fashion,Jeans,1,1599,10.0,1439.1,338.19,Credit Card,Delivered
+ORD10178,2025-03-09,CUST1033,Swathi Z.,Ahmedabad,Beauty,Face Wash,2,399,10.0,718.2,183.14,Cash on Delivery,Delivered
+ORD10179,2025-06-22,CUST1019,Vikram G.,Coimbatore,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,Credit Card,Delivered
+ORD10180,2025-01-12,CUST1114,Rahul S.,Chennai,Beauty,Perfume,1,1299,0.0,1299.0,324.75,UPI,Delivered
+ORD10181,2025-10-15,CUST1101,Sneha Z.,Jaipur,Home & Kitchen,Cookware Set,3,2499,20.0,5997.6,419.83,Credit Card,Delivered
+ORD10182,2025-05-08,CUST1005,Ravi K.,Kolkata,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,UPI,Delivered
+ORD10183,2025-04-06,CUST1180,Ajay Z.,Delhi,Home & Kitchen,Cookware Set,2,2499,25.0,3748.5,187.42,UPI,Delivered
+ORD10184,2025-04-02,CUST1045,Vijay I.,Hyderabad,Electronics,Smart Watch,1,2499,25.0,0.0,0.0,UPI,Cancelled
+ORD10185,2025-05-21,CUST1118,Vijay R.,Pune,Electronics,Bluetooth Speaker,1,1999,5.0,1899.05,375.06,Credit Card,Delivered
+ORD10186,2025-01-31,CUST1064,Pooja G.,Jaipur,Home & Kitchen,Cookware Set,1,2499,0.0,0.0,0.0,UPI,Cancelled
+ORD10187,2025-11-30,CUST1248,Manoj Z.,Coimbatore,Home & Kitchen,Electric Kettle,2,1299,10.0,2338.2,362.42,UPI,Delivered
+ORD10188,2025-01-20,CUST1123,Vijay P.,Pune,Beauty,Shampoo,1,499,10.0,449.1,101.05,Credit Card,Delivered
+ORD10189,2025-05-26,CUST1105,Manoj F.,Bengaluru,Home & Kitchen,Electric Kettle,3,1299,10.0,3507.3,543.63,UPI,Delivered
+ORD10190,2025-11-12,CUST1134,Lakshmi K.,Chennai,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,UPI,Delivered
+ORD10191,2025-06-09,CUST1003,Vijay Z.,Hyderabad,Electronics,Power Bank,2,899,10.0,1618.2,250.82,Debit Card,Shipped
+ORD10192,2025-12-15,CUST1007,Rahul V.,Jaipur,Fashion,Women's Kurti,2,999,5.0,1898.1,564.68,Credit Card,Delivered
+ORD10193,2025-02-12,CUST1108,Ravi P.,Coimbatore,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,UPI,Delivered
+ORD10194,2025-09-11,CUST1045,Vijay I.,Hyderabad,Books,Self Help Book,2,549,10.0,988.2,143.29,Credit Card,Delivered
+ORD10195,2025-05-10,CUST1124,Keerthi Y.,Delhi,Home & Kitchen,Cookware Set,2,2499,15.0,4248.3,392.97,UPI,Delivered
+ORD10196,2025-03-01,CUST1002,Meena U.,Bengaluru,Electronics,Smart Watch,2,2499,5.0,4748.1,1080.19,Credit Card,Delivered
+ORD10197,2025-05-31,CUST1055,Sneha B.,Mumbai,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,UPI,Delivered
+ORD10198,2025-10-14,CUST1025,Hari G.,Chennai,Beauty,Perfume,1,1299,25.0,974.25,133.96,Cash on Delivery,Delivered
+ORD10199,2025-01-05,CUST1038,Pooja W.,Mumbai,Fashion,Men's T-Shirt,1,699,0.0,699.0,244.65,UPI,Delivered
+ORD10200,2025-09-23,CUST1072,Hari K.,Jaipur,Beauty,Shampoo,3,499,10.0,1347.3,303.14,Cash on Delivery,Delivered
+ORD10201,2025-12-11,CUST1047,Meena X.,Kolkata,Home & Kitchen,Electric Kettle,3,1299,5.0,3702.15,657.13,Cash on Delivery,Returned
+ORD10202,2025-05-10,CUST1055,Sneha B.,Mumbai,Beauty,Moisturizer,2,599,15.0,0.0,0.0,Debit Card,Cancelled
+ORD10203,2025-09-24,CUST1044,Arun Y.,Ahmedabad,Beauty,Perfume,1,1299,15.0,1104.15,201.51,Cash on Delivery,Shipped
+ORD10204,2025-06-27,CUST1029,Anitha R.,Delhi,Books,Novel,2,449,5.0,0.0,0.0,UPI,Cancelled
+ORD10205,2025-09-10,CUST1131,Keerthi P.,Bengaluru,Beauty,Face Wash,2,399,10.0,718.2,183.14,UPI,Delivered
+ORD10206,2025-02-25,CUST1000,Vijay T.,Jaipur,Electronics,Smart Watch,1,2499,20.0,1999.2,319.87,Debit Card,Delivered
+ORD10207,2025-03-24,CUST1071,Vijay M.,Ahmedabad,Electronics,Power Bank,2,899,10.0,1618.2,250.82,Debit Card,Shipped
+ORD10208,2025-04-09,CUST1062,Rahul A.,Delhi,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Debit Card,Delivered
+ORD10209,2025-05-29,CUST1109,Keerthi A.,Ahmedabad,Electronics,Wireless Headphones,1,1499,10.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10210,2025-11-25,CUST1071,Vijay M.,Ahmedabad,Home & Kitchen,Mixer Grinder,2,3299,10.0,5938.2,801.66,Credit Card,Delivered
+ORD10211,2025-06-05,CUST1155,Arun O.,Mumbai,Beauty,Moisturizer,2,599,10.0,1078.2,253.38,UPI,Delivered
+ORD10212,2025-07-09,CUST1224,Arun E.,Bengaluru,Fashion,Jeans,3,1599,0.0,4797.0,1343.16,Cash on Delivery,Delivered
+ORD10213,2025-09-20,CUST1020,Suresh G.,Hyderabad,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,UPI,Delivered
+ORD10214,2025-03-21,CUST1008,Priya X.,Delhi,Fashion,Sports Shoes,1,2199,5.0,2089.05,579.71,UPI,Delivered
+ORD10215,2025-09-09,CUST1032,Nandhini D.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,Debit Card,Delivered
+ORD10216,2025-04-07,CUST1014,Keerthi O.,Ahmedabad,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,Cash on Delivery,Delivered
+ORD10217,2025-09-17,CUST1075,Priya J.,Pune,Books,Programming Book,1,799,10.0,0.0,0.0,UPI,Cancelled
+ORD10218,2025-09-17,CUST1198,Ajay T.,Delhi,Fashion,Sports Shoes,1,2199,10.0,1979.1,504.67,Debit Card,Delivered
+ORD10219,2025-04-13,CUST1003,Vijay Z.,Hyderabad,Electronics,Wireless Headphones,2,1499,20.0,2398.4,455.7,Cash on Delivery,Delivered
+ORD10220,2025-02-09,CUST1002,Meena U.,Bengaluru,Electronics,Wireless Headphones,4,1499,15.0,5096.6,1083.03,Credit Card,Delivered
+ORD10221,2025-09-30,CUST1011,Arun L.,Mumbai,Beauty,Face Wash,5,399,0.0,1995.0,598.5,UPI,Delivered
+ORD10222,2025-04-11,CUST1113,Vikram Z.,Ahmedabad,Books,Self Help Book,4,549,15.0,1866.6,228.66,UPI,Delivered
+ORD10223,2025-12-25,CUST1069,Manoj T.,Kolkata,Home & Kitchen,Storage Container Set,3,799,20.0,1917.6,172.58,Net Banking,Delivered
+ORD10224,2025-11-04,CUST1002,Meena U.,Bengaluru,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,Credit Card,Delivered
+ORD10225,2025-08-09,CUST1201,Keerthi M.,Delhi,Books,Self Help Book,1,549,0.0,549.0,104.31,Net Banking,Delivered
+ORD10226,2025-11-04,CUST1138,Rahul P.,Hyderabad,Books,Self Help Book,1,549,0.0,549.0,104.31,UPI,Delivered
+ORD10227,2025-05-04,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,1,899,5.0,854.05,151.59,Credit Card,Delivered
+ORD10228,2025-08-19,CUST1087,Vikram J.,Coimbatore,Electronics,Wireless Headphones,1,1499,20.0,1199.2,227.85,Debit Card,Delivered
+ORD10229,2025-06-27,CUST1130,Rahul S.,Ahmedabad,Books,Self Help Book,1,549,10.0,494.1,71.64,UPI,Delivered
+ORD10230,2025-03-04,CUST1024,Priya T.,Bengaluru,Beauty,Face Wash,1,399,15.0,339.15,78.85,UPI,Delivered
+ORD10231,2025-04-26,CUST1001,Hari K.,Jaipur,Electronics,Power Bank,1,899,0.0,899.0,179.8,Credit Card,Delivered
+ORD10232,2025-07-10,CUST1001,Hari K.,Jaipur,Beauty,Moisturizer,1,599,5.0,569.05,146.53,UPI,Delivered
+ORD10233,2025-03-03,CUST1002,Meena U.,Bengaluru,Fashion,Sports Shoes,2,2199,20.0,3518.4,738.86,UPI,Delivered
+ORD10234,2025-09-13,CUST1161,Divya C.,Mumbai,Beauty,Face Wash,2,399,20.0,638.4,134.06,UPI,Delivered
+ORD10235,2025-01-07,CUST1197,Anitha F.,Hyderabad,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,Cash on Delivery,Delivered
+ORD10236,2025-06-04,CUST1003,Vijay Z.,Hyderabad,Beauty,Moisturizer,1,599,15.0,509.15,108.19,Credit Card,Delivered
+ORD10237,2025-04-02,CUST1009,Sneha F.,Bengaluru,Books,Programming Book,4,799,0.0,3196.0,703.12,Credit Card,Delivered
+ORD10238,2025-01-14,CUST1005,Ravi K.,Kolkata,Home & Kitchen,Cookware Set,1,2499,25.0,1874.25,93.71,Net Banking,Delivered
+ORD10239,2025-08-17,CUST1006,Anitha H.,Mumbai,Electronics,Bluetooth Speaker,2,1999,0.0,3998.0,879.56,UPI,Delivered
+ORD10240,2025-03-27,CUST1160,Sneha N.,Delhi,Electronics,Smart Watch,3,2499,10.0,6747.3,1383.2,Credit Card,Delivered
+ORD10241,2025-05-13,CUST1019,Vikram G.,Coimbatore,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,Credit Card,Delivered
+ORD10242,2025-07-02,CUST1016,Sneha W.,Jaipur,Fashion,Jeans,2,1599,5.0,3038.1,782.31,Net Banking,Delivered
+ORD10243,2025-03-03,CUST1008,Priya X.,Delhi,Electronics,Wireless Headphones,3,1499,5.0,4272.15,1100.08,UPI,Delivered
+ORD10244,2025-08-07,CUST1073,Anitha M.,Jaipur,Beauty,Moisturizer,1,599,5.0,569.05,146.53,UPI,Delivered
+ORD10245,2025-09-03,CUST1025,Hari G.,Chennai,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Cash on Delivery,Delivered
+ORD10246,2025-08-18,CUST1120,Ravi Y.,Pune,Electronics,Power Bank,4,899,15.0,3056.6,405.0,Credit Card,Delivered
+ORD10247,2025-03-20,CUST1007,Rahul V.,Jaipur,Beauty,Face Wash,1,399,10.0,359.1,91.57,Credit Card,Delivered
+ORD10248,2025-05-29,CUST1137,Meena T.,Pune,Books,Self Help Book,1,549,15.0,466.65,57.16,Credit Card,Delivered
+ORD10249,2025-05-18,CUST1072,Hari K.,Jaipur,Fashion,Sports Shoes,1,2199,10.0,1979.1,504.67,Debit Card,Shipped
+ORD10250,2025-11-10,CUST1002,Meena U.,Bengaluru,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,UPI,Shipped
+ORD10251,2025-03-06,CUST1030,Meena D.,Chennai,Books,Novel,1,449,0.0,449.0,80.82,Credit Card,Delivered
+ORD10252,2025-01-13,CUST1173,Priya Z.,Kolkata,Electronics,Wireless Headphones,2,1499,20.0,0.0,0.0,UPI,Cancelled
+ORD10253,2025-08-01,CUST1204,Vikram Z.,Jaipur,Fashion,Jeans,3,1599,5.0,4557.15,1173.47,Debit Card,Delivered
+ORD10254,2025-08-30,CUST1039,Meena U.,Ahmedabad,Beauty,Perfume,2,1299,20.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10255,2025-08-01,CUST1042,Ajay I.,Chennai,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,Credit Card,Delivered
+ORD10256,2025-06-30,CUST1201,Keerthi M.,Delhi,Electronics,Bluetooth Speaker,1,1999,5.0,1899.05,375.06,UPI,Delivered
+ORD10257,2025-12-04,CUST1068,Vikram G.,Hyderabad,Fashion,Jeans,2,1599,15.0,2718.3,577.64,UPI,Delivered
+ORD10258,2025-06-22,CUST1000,Vijay T.,Jaipur,Books,Novel,1,449,5.0,426.55,67.18,Cash on Delivery,Delivered
+ORD10259,2025-06-09,CUST1198,Ajay T.,Delhi,Home & Kitchen,Electric Kettle,2,1299,15.0,2208.3,292.6,Debit Card,Returned
+ORD10260,2025-06-13,CUST1010,Priya U.,Coimbatore,Home & Kitchen,Cookware Set,1,2499,5.0,2374.05,326.43,Cash on Delivery,Delivered
+ORD10261,2025-07-07,CUST1065,Suresh O.,Kolkata,Books,Programming Book,4,799,0.0,0.0,0.0,Credit Card,Cancelled
+ORD10262,2025-07-10,CUST1005,Ravi K.,Kolkata,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,UPI,Delivered
+ORD10263,2025-11-04,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Cookware Set,1,2499,5.0,2374.05,326.43,Credit Card,Delivered
+ORD10264,2025-09-13,CUST1016,Sneha W.,Jaipur,Fashion,Sports Shoes,1,2199,0.0,2199.0,659.7,UPI,Delivered
+ORD10265,2025-07-02,CUST1134,Lakshmi K.,Chennai,Books,Programming Book,1,799,5.0,759.05,149.91,Debit Card,Delivered
+ORD10266,2025-04-27,CUST1013,Manoj J.,Delhi,Home & Kitchen,Cookware Set,1,2499,15.0,2124.15,196.48,UPI,Delivered
+ORD10267,2025-10-09,CUST1008,Priya X.,Delhi,Electronics,Smart Watch,1,2499,0.0,2499.0,624.75,UPI,Delivered
+ORD10268,2025-07-15,CUST1007,Rahul V.,Jaipur,Beauty,Moisturizer,1,599,10.0,539.1,126.69,UPI,Delivered
+ORD10269,2025-02-03,CUST1050,Rahul C.,Jaipur,Books,Business Book,2,599,10.0,1078.2,167.12,UPI,Delivered
+ORD10270,2025-02-21,CUST1234,Priya Q.,Hyderabad,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,UPI,Delivered
+ORD10271,2025-04-22,CUST1038,Pooja W.,Mumbai,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,Cash on Delivery,Delivered
+ORD10272,2025-09-09,CUST1060,Rahul E.,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3299,5.0,3134.05,493.61,Debit Card,Delivered
+ORD10273,2025-03-23,CUST1171,Swathi O.,Bengaluru,Electronics,Wireless Headphones,1,1499,25.0,1124.25,188.31,UPI,Delivered
+ORD10274,2025-08-20,CUST1054,Suresh H.,Ahmedabad,Fashion,Men's T-Shirt,2,699,10.0,1258.2,383.75,Cash on Delivery,Delivered
+ORD10275,2025-08-15,CUST1006,Anitha H.,Mumbai,Beauty,Face Wash,2,399,5.0,758.1,210.37,Net Banking,Delivered
+ORD10276,2025-08-21,CUST1015,Hari S.,Mumbai,Books,Programming Book,1,799,15.0,679.15,103.57,UPI,Delivered
+ORD10277,2025-08-09,CUST1016,Sneha W.,Jaipur,Electronics,Wireless Headphones,2,1499,10.0,2698.2,634.08,UPI,Delivered
+ORD10278,2025-02-11,CUST1028,Pooja Q.,Kolkata,Electronics,Bluetooth Speaker,2,1999,20.0,3198.4,415.79,Debit Card,Delivered
+ORD10279,2025-01-21,CUST1032,Nandhini D.,Kolkata,Beauty,Perfume,1,1299,15.0,1104.15,201.51,UPI,Delivered
+ORD10280,2025-02-11,CUST1143,Suresh D.,Pune,Electronics,Wireless Headphones,1,1499,20.0,1199.2,227.85,Credit Card,Delivered
+ORD10281,2025-04-23,CUST1021,Swathi D.,Chennai,Electronics,Bluetooth Speaker,3,1999,5.0,5697.15,1125.19,Credit Card,Delivered
+ORD10282,2025-04-15,CUST1040,Keerthi M.,Pune,Books,Business Book,2,599,0.0,1198.0,239.6,Credit Card,Delivered
+ORD10283,2025-07-11,CUST1078,Sneha T.,Jaipur,Books,Business Book,1,599,0.0,599.0,119.8,Debit Card,Returned
+ORD10284,2025-01-17,CUST1025,Hari G.,Chennai,Fashion,Women's Kurti,3,999,5.0,2847.15,847.03,UPI,Delivered
+ORD10285,2025-04-30,CUST1159,Manoj Q.,Chennai,Beauty,Shampoo,2,499,0.0,998.0,269.46,Credit Card,Delivered
+ORD10286,2025-05-09,CUST1068,Vikram G.,Hyderabad,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,Credit Card,Shipped
+ORD10287,2025-05-10,CUST1014,Keerthi O.,Ahmedabad,Books,Novel,1,449,10.0,404.1,54.55,Debit Card,Delivered
+ORD10288,2025-03-01,CUST1108,Ravi P.,Coimbatore,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,UPI,Shipped
+ORD10289,2025-02-17,CUST1053,Suresh G.,Hyderabad,Electronics,Smart Watch,1,2499,20.0,1999.2,319.87,Credit Card,Delivered
+ORD10290,2025-01-29,CUST1054,Suresh H.,Ahmedabad,Home & Kitchen,Cookware Set,1,2499,5.0,2374.05,326.43,Cash on Delivery,Delivered
+ORD10291,2025-04-07,CUST1042,Ajay I.,Chennai,Home & Kitchen,Cookware Set,2,2499,10.0,4498.2,517.29,Credit Card,Delivered
+ORD10292,2025-01-10,CUST1046,Arun L.,Ahmedabad,Fashion,Men's T-Shirt,2,699,5.0,1328.1,434.95,Credit Card,Shipped
+ORD10293,2025-08-30,CUST1128,Karthik E.,Hyderabad,Fashion,Women's Kurti,2,999,15.0,1698.3,428.82,Credit Card,Delivered
+ORD10294,2025-11-10,CUST1002,Meena U.,Bengaluru,Books,Self Help Book,1,549,5.0,521.55,87.36,Credit Card,Delivered
+ORD10295,2025-08-20,CUST1019,Vikram G.,Coimbatore,Books,Business Book,1,599,0.0,599.0,119.8,UPI,Delivered
+ORD10296,2025-10-04,CUST1001,Hari K.,Jaipur,Books,Self Help Book,1,549,5.0,521.55,87.36,UPI,Shipped
+ORD10297,2025-10-11,CUST1123,Vijay P.,Pune,Beauty,Shampoo,4,499,10.0,1796.4,404.19,Cash on Delivery,Delivered
+ORD10298,2025-07-22,CUST1012,Sneha Y.,Ahmedabad,Books,Novel,5,449,0.0,2245.0,404.1,Credit Card,Delivered
+ORD10299,2025-09-04,CUST1190,Manoj T.,Delhi,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,UPI,Delivered
+ORD10300,2025-10-17,CUST1052,Nandhini G.,Delhi,Fashion,Women's Kurti,2,999,0.0,1998.0,639.36,Credit Card,Delivered
+ORD10301,2025-09-21,CUST1143,Suresh D.,Pune,Beauty,Moisturizer,1,599,5.0,569.05,146.53,UPI,Delivered
+ORD10302,2025-08-02,CUST1236,Sneha R.,Pune,Fashion,Sports Shoes,1,2199,0.0,2199.0,659.7,UPI,Delivered
+ORD10303,2025-07-19,CUST1161,Divya C.,Mumbai,Books,Novel,1,449,5.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10304,2025-03-20,CUST1174,Manoj H.,Coimbatore,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,UPI,Shipped
+ORD10305,2025-12-09,CUST1029,Anitha R.,Delhi,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,UPI,Delivered
+ORD10306,2025-12-10,CUST1058,Sneha H.,Delhi,Fashion,Men's T-Shirt,2,699,0.0,1398.0,489.3,UPI,Delivered
+ORD10307,2025-06-22,CUST1011,Arun L.,Mumbai,Fashion,Sports Shoes,3,2199,5.0,6267.15,1739.13,Credit Card,Delivered
+ORD10308,2025-03-10,CUST1006,Anitha H.,Mumbai,Home & Kitchen,Electric Kettle,1,1299,5.0,1234.05,219.04,UPI,Delivered
+ORD10309,2025-03-28,CUST1048,Ravi S.,Mumbai,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,UPI,Shipped
+ORD10310,2025-04-11,CUST1070,Anitha E.,Bengaluru,Electronics,Power Bank,1,899,10.0,809.1,125.41,Cash on Delivery,Delivered
+ORD10311,2025-01-08,CUST1019,Vikram G.,Coimbatore,Fashion,Jeans,1,1599,10.0,1439.1,338.19,UPI,Delivered
+ORD10312,2025-11-29,CUST1063,Karthik Z.,Jaipur,Beauty,Shampoo,3,499,10.0,1347.3,303.14,Debit Card,Delivered
+ORD10313,2025-07-19,CUST1185,Keerthi N.,Chennai,Home & Kitchen,Storage Container Set,2,799,0.0,1598.0,287.64,UPI,Delivered
+ORD10314,2025-03-28,CUST1060,Rahul E.,Ahmedabad,Fashion,Men's T-Shirt,1,699,25.0,524.25,124.51,UPI,Delivered
+ORD10315,2025-02-12,CUST1111,Keerthi C.,Chennai,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,UPI,Delivered
+ORD10316,2025-04-19,CUST1145,Arun N.,Delhi,Beauty,Face Wash,2,399,0.0,798.0,239.4,UPI,Delivered
+ORD10317,2025-06-01,CUST1242,Meena J.,Hyderabad,Fashion,Women's Kurti,2,999,5.0,1898.1,564.68,UPI,Returned
+ORD10318,2025-01-17,CUST1072,Hari K.,Jaipur,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,Credit Card,Delivered
+ORD10319,2025-05-13,CUST1146,Keerthi T.,Coimbatore,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,Debit Card,Delivered
+ORD10320,2025-05-28,CUST1227,Priya T.,Delhi,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,Debit Card,Delivered
+ORD10321,2025-10-04,CUST1216,Karthik V.,Coimbatore,Home & Kitchen,Storage Container Set,3,799,10.0,2157.3,291.24,Debit Card,Delivered
+ORD10322,2025-08-20,CUST1003,Vijay Z.,Hyderabad,Beauty,Shampoo,1,499,10.0,449.1,101.05,UPI,Delivered
+ORD10323,2025-11-10,CUST1029,Anitha R.,Delhi,Beauty,Shampoo,1,499,20.0,399.2,71.86,UPI,Delivered
+ORD10324,2025-08-16,CUST1018,Rahul E.,Ahmedabad,Books,Novel,4,449,0.0,1796.0,323.28,UPI,Shipped
+ORD10325,2025-05-19,CUST1001,Hari K.,Jaipur,Books,Programming Book,2,799,10.0,1438.2,251.68,Credit Card,Delivered
+ORD10326,2025-07-30,CUST1081,Arun Y.,Jaipur,Fashion,Men's T-Shirt,1,699,20.0,559.2,145.39,UPI,Delivered
+ORD10327,2025-01-28,CUST1116,Lakshmi I.,Coimbatore,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Debit Card,Delivered
+ORD10328,2025-02-20,CUST1165,Lakshmi U.,Hyderabad,Electronics,Wireless Headphones,5,1499,0.0,7495.0,2098.6,Credit Card,Delivered
+ORD10329,2025-09-18,CUST1003,Vijay Z.,Hyderabad,Electronics,Smart Watch,1,2499,0.0,2499.0,624.75,UPI,Delivered
+ORD10330,2025-09-18,CUST1179,Rahul R.,Chennai,Fashion,Men's T-Shirt,2,699,15.0,1188.3,335.69,Credit Card,Delivered
+ORD10331,2025-12-16,CUST1084,Vijay F.,Delhi,Beauty,Moisturizer,1,599,20.0,479.2,91.05,Credit Card,Delivered
+ORD10332,2025-12-18,CUST1104,Ravi X.,Hyderabad,Home & Kitchen,Electric Kettle,2,1299,15.0,2208.3,292.6,UPI,Delivered
+ORD10333,2025-01-08,CUST1197,Anitha F.,Hyderabad,Beauty,Moisturizer,1,599,15.0,509.15,108.19,UPI,Delivered
+ORD10334,2025-11-16,CUST1078,Sneha T.,Jaipur,Fashion,Sports Shoes,2,2199,5.0,4178.1,1159.42,Cash on Delivery,Delivered
+ORD10335,2025-05-18,CUST1019,Vikram G.,Coimbatore,Fashion,Jeans,1,1599,5.0,1519.05,391.16,UPI,Delivered
+ORD10336,2025-02-07,CUST1154,Meena B.,Ahmedabad,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,Debit Card,Shipped
+ORD10337,2025-04-21,CUST1023,Suresh Z.,Mumbai,Beauty,Face Wash,1,399,0.0,399.0,119.7,UPI,Delivered
+ORD10338,2025-08-08,CUST1000,Vijay T.,Jaipur,Books,Business Book,1,599,20.0,479.2,52.71,Debit Card,Delivered
+ORD10339,2025-12-03,CUST1157,Keerthi S.,Chennai,Electronics,Bluetooth Speaker,1,1999,15.0,1699.15,259.12,Credit Card,Delivered
+ORD10340,2025-08-11,CUST1020,Suresh G.,Hyderabad,Electronics,Bluetooth Speaker,3,1999,20.0,4797.6,623.69,Cash on Delivery,Shipped
+ORD10341,2025-05-16,CUST1132,Rahul T.,Ahmedabad,Fashion,Jeans,2,1599,5.0,3038.1,782.31,Debit Card,Delivered
+ORD10342,2025-09-13,CUST1023,Suresh Z.,Mumbai,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,UPI,Delivered
+ORD10343,2025-12-26,CUST1171,Swathi O.,Bengaluru,Books,Novel,2,449,20.0,718.4,64.66,Net Banking,Delivered
+ORD10344,2025-11-25,CUST1008,Priya X.,Delhi,Beauty,Moisturizer,1,599,5.0,569.05,146.53,Credit Card,Shipped
+ORD10345,2025-02-18,CUST1234,Priya Q.,Hyderabad,Fashion,Sports Shoes,1,2199,10.0,1979.1,504.67,UPI,Delivered
+ORD10346,2025-10-19,CUST1134,Lakshmi K.,Chennai,Fashion,Men's T-Shirt,1,699,15.0,594.15,167.85,Credit Card,Returned
+ORD10347,2025-11-20,CUST1002,Meena U.,Bengaluru,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,UPI,Delivered
+ORD10348,2025-03-19,CUST1062,Rahul A.,Delhi,Fashion,Women's Kurti,1,999,5.0,949.05,282.34,Credit Card,Delivered
+ORD10349,2025-04-15,CUST1240,Sneha C.,Bengaluru,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,UPI,Delivered
+ORD10350,2025-06-18,CUST1040,Keerthi M.,Pune,Electronics,Power Bank,1,899,0.0,899.0,179.8,UPI,Delivered
+ORD10351,2025-08-05,CUST1005,Ravi K.,Kolkata,Books,Business Book,1,599,15.0,509.15,67.46,UPI,Delivered
+ORD10352,2025-04-29,CUST1043,Hari M.,Mumbai,Fashion,Men's T-Shirt,4,699,10.0,2516.4,767.5,UPI,Shipped
+ORD10353,2025-07-09,CUST1049,Manoj H.,Hyderabad,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,Debit Card,Delivered
+ORD10354,2025-09-12,CUST1119,Meena A.,Delhi,Home & Kitchen,Mixer Grinder,2,3299,15.0,5608.3,630.93,Cash on Delivery,Returned
+ORD10355,2025-09-23,CUST1103,Anitha W.,Kolkata,Beauty,Moisturizer,1,599,15.0,509.15,108.19,Credit Card,Delivered
+ORD10356,2025-05-29,CUST1028,Pooja Q.,Kolkata,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,Cash on Delivery,Delivered
+ORD10357,2025-06-13,CUST1008,Priya X.,Delhi,Fashion,Men's T-Shirt,1,699,0.0,699.0,244.65,UPI,Delivered
+ORD10358,2025-05-20,CUST1085,Meena I.,Pune,Electronics,Smart Watch,1,2499,0.0,0.0,0.0,UPI,Cancelled
+ORD10359,2025-12-13,CUST1031,Priya F.,Kolkata,Beauty,Moisturizer,3,599,10.0,1617.3,380.07,Credit Card,Delivered
+ORD10360,2025-09-15,CUST1003,Vijay Z.,Hyderabad,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,Credit Card,Delivered
+ORD10361,2025-09-26,CUST1192,Hari V.,Pune,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,Debit Card,Delivered
+ORD10362,2025-06-30,CUST1100,Priya U.,Jaipur,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,Debit Card,Delivered
+ORD10363,2025-06-09,CUST1097,Priya B.,Hyderabad,Fashion,Women's Kurti,1,999,10.0,899.1,247.25,Credit Card,Shipped
+ORD10364,2025-12-17,CUST1153,Vikram V.,Delhi,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,Credit Card,Delivered
+ORD10365,2025-10-15,CUST1053,Suresh G.,Hyderabad,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,UPI,Delivered
+ORD10366,2025-10-15,CUST1149,Arun P.,Jaipur,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,UPI,Delivered
+ORD10367,2025-08-14,CUST1046,Arun L.,Ahmedabad,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,Debit Card,Delivered
+ORD10368,2025-01-11,CUST1001,Hari K.,Jaipur,Beauty,Face Wash,1,399,15.0,339.15,78.85,UPI,Returned
+ORD10369,2025-01-10,CUST1029,Anitha R.,Delhi,Home & Kitchen,Electric Kettle,2,1299,0.0,2598.0,519.6,Credit Card,Delivered
+ORD10370,2025-09-28,CUST1046,Arun L.,Ahmedabad,Fashion,Men's T-Shirt,1,699,20.0,559.2,145.39,UPI,Delivered
+ORD10371,2025-09-30,CUST1110,Suresh F.,Kolkata,Fashion,Jeans,5,1599,0.0,7995.0,2238.6,Cash on Delivery,Delivered
+ORD10372,2025-07-02,CUST1002,Meena U.,Bengaluru,Electronics,Bluetooth Speaker,2,1999,0.0,3998.0,879.56,UPI,Delivered
+ORD10373,2025-06-02,CUST1003,Vijay Z.,Hyderabad,Electronics,Smart Watch,1,2499,5.0,2374.05,540.1,Credit Card,Delivered
+ORD10374,2025-11-11,CUST1011,Arun L.,Mumbai,Beauty,Perfume,1,1299,5.0,1234.05,280.75,Credit Card,Delivered
+ORD10375,2025-11-30,CUST1012,Sneha Y.,Ahmedabad,Electronics,Bluetooth Speaker,2,1999,15.0,3398.3,518.24,Credit Card,Delivered
+ORD10376,2025-05-04,CUST1115,Lakshmi G.,Ahmedabad,Books,Business Book,1,599,10.0,539.1,83.56,UPI,Delivered
+ORD10377,2025-04-24,CUST1010,Priya U.,Coimbatore,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,Debit Card,Delivered
+ORD10378,2025-10-05,CUST1081,Arun Y.,Jaipur,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,UPI,Delivered
+ORD10379,2025-08-01,CUST1045,Vijay I.,Hyderabad,Fashion,Men's T-Shirt,1,699,0.0,699.0,244.65,Credit Card,Delivered
+ORD10380,2025-06-21,CUST1064,Pooja G.,Jaipur,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,Credit Card,Delivered
+ORD10381,2025-10-15,CUST1160,Sneha N.,Delhi,Electronics,Power Bank,2,899,10.0,1618.2,250.82,Cash on Delivery,Delivered
+ORD10382,2025-06-23,CUST1029,Anitha R.,Delhi,Books,Programming Book,3,799,15.0,2037.45,310.71,Cash on Delivery,Shipped
+ORD10383,2025-04-23,CUST1130,Rahul S.,Ahmedabad,Home & Kitchen,Storage Container Set,1,799,20.0,639.2,57.53,Cash on Delivery,Delivered
+ORD10384,2025-05-02,CUST1032,Nandhini D.,Kolkata,Electronics,Power Bank,5,899,15.0,3820.75,506.25,Debit Card,Delivered
+ORD10385,2025-02-01,CUST1021,Swathi D.,Chennai,Electronics,Bluetooth Speaker,5,1999,15.0,8495.75,1295.6,Net Banking,Delivered
+ORD10386,2025-08-10,CUST1224,Arun E.,Bengaluru,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,UPI,Delivered
+ORD10387,2025-04-29,CUST1006,Anitha H.,Mumbai,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,UPI,Delivered
+ORD10388,2025-02-08,CUST1001,Hari K.,Jaipur,Electronics,Smart Watch,1,2499,25.0,0.0,0.0,Credit Card,Cancelled
+ORD10389,2025-09-25,CUST1130,Rahul S.,Ahmedabad,Electronics,Wireless Headphones,1,1499,0.0,1499.0,419.72,UPI,Delivered
+ORD10390,2025-08-21,CUST1001,Hari K.,Jaipur,Fashion,Jeans,1,1599,5.0,1519.05,391.16,Cash on Delivery,Delivered
+ORD10391,2025-01-18,CUST1160,Sneha N.,Delhi,Fashion,Jeans,2,1599,25.0,2398.5,401.75,UPI,Shipped
+ORD10392,2025-05-29,CUST1034,Sneha B.,Hyderabad,Beauty,Perfume,1,1299,10.0,1169.1,239.67,Debit Card,Delivered
+ORD10393,2025-05-29,CUST1200,Meena T.,Delhi,Electronics,Bluetooth Speaker,1,1999,15.0,1699.15,259.12,Credit Card,Delivered
+ORD10394,2025-05-06,CUST1111,Keerthi C.,Chennai,Beauty,Shampoo,1,499,0.0,499.0,134.73,Net Banking,Shipped
+ORD10395,2025-10-29,CUST1074,Vijay S.,Chennai,Fashion,Sports Shoes,2,2199,10.0,3958.2,1009.34,Credit Card,Returned
+ORD10396,2025-12-26,CUST1219,Pooja T.,Jaipur,Electronics,Power Bank,2,899,25.0,1348.5,117.99,UPI,Delivered
+ORD10397,2025-08-26,CUST1027,Hari C.,Coimbatore,Fashion,Women's Kurti,3,999,25.0,2247.75,466.41,UPI,Delivered
+ORD10398,2025-05-15,CUST1222,Keerthi U.,Pune,Fashion,Jeans,2,1599,10.0,2878.2,676.38,Net Banking,Delivered
+ORD10399,2025-05-31,CUST1003,Vijay Z.,Hyderabad,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,Credit Card,Delivered
+ORD10400,2025-08-24,CUST1043,Hari M.,Mumbai,Fashion,Sports Shoes,1,2199,10.0,1979.1,504.67,UPI,Delivered
+ORD10401,2025-08-12,CUST1012,Sneha Y.,Ahmedabad,Home & Kitchen,Mixer Grinder,2,3299,15.0,5608.3,630.93,Debit Card,Delivered
+ORD10402,2025-07-22,CUST1055,Sneha B.,Mumbai,Home & Kitchen,Cookware Set,1,2499,20.0,1999.2,139.94,UPI,Delivered
+ORD10403,2025-09-13,CUST1004,Vikram W.,Ahmedabad,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,UPI,Delivered
+ORD10404,2025-03-27,CUST1162,Suresh E.,Hyderabad,Electronics,Smart Watch,1,2499,0.0,2499.0,624.75,Credit Card,Delivered
+ORD10405,2025-05-30,CUST1164,Rahul A.,Bengaluru,Electronics,Power Bank,2,899,10.0,1618.2,250.82,Credit Card,Shipped
+ORD10406,2025-08-23,CUST1222,Keerthi U.,Pune,Electronics,Wireless Headphones,1,1499,0.0,1499.0,419.72,Credit Card,Delivered
+ORD10407,2025-12-11,CUST1004,Vikram W.,Ahmedabad,Fashion,Jeans,1,1599,15.0,1359.15,288.82,Cash on Delivery,Delivered
+ORD10408,2025-01-22,CUST1078,Sneha T.,Jaipur,Electronics,Smart Watch,1,2499,15.0,2124.15,387.66,Credit Card,Delivered
+ORD10409,2025-12-14,CUST1041,Swathi O.,Hyderabad,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,UPI,Delivered
+ORD10410,2025-10-12,CUST1020,Suresh G.,Hyderabad,Electronics,Smart Watch,2,2499,10.0,4498.2,922.13,UPI,Delivered
+ORD10411,2025-09-26,CUST1021,Swathi D.,Chennai,Fashion,Sports Shoes,2,2199,10.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10412,2025-09-15,CUST1030,Meena D.,Chennai,Electronics,Bluetooth Speaker,2,1999,15.0,3398.3,518.24,Debit Card,Delivered
+ORD10413,2025-01-29,CUST1105,Manoj F.,Bengaluru,Beauty,Face Wash,4,399,25.0,1197.0,224.44,Debit Card,Delivered
+ORD10414,2025-08-01,CUST1071,Vijay M.,Ahmedabad,Beauty,Perfume,1,1299,0.0,1299.0,324.75,UPI,Delivered
+ORD10415,2025-10-10,CUST1038,Pooja W.,Mumbai,Books,Business Book,3,599,10.0,1617.3,250.68,Debit Card,Delivered
+ORD10416,2025-02-19,CUST1001,Hari K.,Jaipur,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,Net Banking,Delivered
+ORD10417,2025-04-05,CUST1001,Hari K.,Jaipur,Beauty,Face Wash,4,399,5.0,1516.2,420.75,Cash on Delivery,Delivered
+ORD10418,2025-03-29,CUST1000,Vijay T.,Jaipur,Fashion,Women's Kurti,1,999,0.0,0.0,0.0,UPI,Cancelled
+ORD10419,2025-02-13,CUST1230,Arun X.,Kolkata,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,UPI,Delivered
+ORD10420,2025-10-05,CUST1000,Vijay T.,Jaipur,Fashion,Sports Shoes,2,2199,5.0,4178.1,1159.42,UPI,Delivered
+ORD10421,2025-06-20,CUST1002,Meena U.,Bengaluru,Books,Self Help Book,3,549,5.0,1564.65,262.08,Debit Card,Shipped
+ORD10422,2025-07-08,CUST1017,Lakshmi Y.,Delhi,Beauty,Face Wash,2,399,10.0,718.2,183.14,UPI,Delivered
+ORD10423,2025-12-19,CUST1146,Keerthi T.,Coimbatore,Books,Business Book,1,599,5.0,569.05,101.01,UPI,Delivered
+ORD10424,2025-07-03,CUST1226,Karthik D.,Pune,Beauty,Shampoo,4,499,20.0,1596.8,287.42,Cash on Delivery,Delivered
+ORD10425,2025-01-03,CUST1138,Rahul P.,Hyderabad,Books,Business Book,4,599,15.0,2036.6,269.85,UPI,Delivered
+ORD10426,2025-07-10,CUST1100,Priya U.,Jaipur,Fashion,Women's Kurti,1,999,5.0,949.05,282.34,UPI,Delivered
+ORD10427,2025-04-28,CUST1051,Arun E.,Delhi,Electronics,Bluetooth Speaker,4,1999,5.0,7596.2,1500.25,Debit Card,Delivered
+ORD10428,2025-01-19,CUST1001,Hari K.,Jaipur,Beauty,Perfume,1,1299,15.0,1104.15,201.51,Cash on Delivery,Returned
+ORD10429,2025-01-23,CUST1224,Arun E.,Bengaluru,Fashion,Sports Shoes,2,2199,5.0,4178.1,1159.42,Cash on Delivery,Delivered
+ORD10430,2025-01-30,CUST1125,Lakshmi Q.,Delhi,Electronics,Bluetooth Speaker,4,1999,5.0,7596.2,1500.25,UPI,Delivered
+ORD10431,2025-10-22,CUST1083,Suresh C.,Delhi,Beauty,Moisturizer,2,599,0.0,1198.0,335.44,Debit Card,Delivered
+ORD10432,2025-04-18,CUST1125,Lakshmi Q.,Delhi,Fashion,Jeans,2,1599,25.0,0.0,0.0,Net Banking,Cancelled
+ORD10433,2025-10-08,CUST1112,Lakshmi D.,Hyderabad,Home & Kitchen,Electric Kettle,2,1299,15.0,2208.3,292.6,Credit Card,Shipped
+ORD10434,2025-05-08,CUST1082,Lakshmi M.,Bengaluru,Fashion,Jeans,2,1599,5.0,3038.1,782.31,UPI,Delivered
+ORD10435,2025-08-17,CUST1237,Rahul A.,Bengaluru,Home & Kitchen,Electric Kettle,2,1299,5.0,0.0,0.0,UPI,Cancelled
+ORD10436,2025-04-21,CUST1193,Ravi E.,Chennai,Electronics,Power Bank,4,899,10.0,3236.4,501.64,Net Banking,Shipped
+ORD10437,2025-05-16,CUST1085,Meena I.,Pune,Electronics,Smart Watch,1,2499,5.0,2374.05,540.1,UPI,Delivered
+ORD10438,2025-12-28,CUST1101,Sneha Z.,Jaipur,Home & Kitchen,Mixer Grinder,1,3299,0.0,3299.0,593.82,Credit Card,Delivered
+ORD10439,2025-07-05,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,Credit Card,Delivered
+ORD10440,2025-05-24,CUST1093,Vijay B.,Ahmedabad,Home & Kitchen,Mixer Grinder,3,3299,20.0,7917.6,712.58,Cash on Delivery,Delivered
+ORD10441,2025-03-13,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,1,899,15.0,764.15,101.25,Credit Card,Delivered
+ORD10442,2025-05-09,CUST1068,Vikram G.,Hyderabad,Fashion,Jeans,3,1599,5.0,4557.15,1173.47,UPI,Delivered
+ORD10443,2025-12-30,CUST1249,Meena Z.,Kolkata,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,UPI,Shipped
+ORD10444,2025-09-18,CUST1059,Rahul A.,Kolkata,Beauty,Moisturizer,3,599,15.0,1527.45,324.58,Debit Card,Shipped
+ORD10445,2025-01-03,CUST1041,Swathi O.,Hyderabad,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Credit Card,Delivered
+ORD10446,2025-04-14,CUST1016,Sneha W.,Jaipur,Home & Kitchen,Storage Container Set,2,799,5.0,1518.1,239.1,Debit Card,Shipped
+ORD10447,2025-08-12,CUST1002,Meena U.,Bengaluru,Electronics,Smart Watch,1,2499,0.0,2499.0,624.75,UPI,Delivered
+ORD10448,2025-11-16,CUST1114,Rahul S.,Chennai,Beauty,Face Wash,2,399,15.0,678.3,157.7,Cash on Delivery,Shipped
+ORD10449,2025-12-28,CUST1006,Anitha H.,Mumbai,Beauty,Moisturizer,1,599,15.0,509.15,108.19,Credit Card,Returned
+ORD10450,2025-12-20,CUST1002,Meena U.,Bengaluru,Home & Kitchen,Electric Kettle,2,1299,5.0,2468.1,438.09,Cash on Delivery,Shipped
+ORD10451,2025-01-10,CUST1031,Priya F.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,UPI,Delivered
+ORD10452,2025-10-29,CUST1141,Swathi B.,Jaipur,Home & Kitchen,Cookware Set,1,2499,0.0,2499.0,399.84,Cash on Delivery,Delivered
+ORD10453,2025-08-19,CUST1120,Ravi Y.,Pune,Books,Business Book,1,599,5.0,569.05,101.01,UPI,Delivered
+ORD10454,2025-08-07,CUST1000,Vijay T.,Jaipur,Fashion,Jeans,1,1599,5.0,1519.05,391.16,Credit Card,Returned
+ORD10455,2025-03-07,CUST1037,Hari H.,Chennai,Beauty,Shampoo,1,499,0.0,499.0,134.73,Net Banking,Delivered
+ORD10456,2025-04-22,CUST1051,Arun E.,Delhi,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,Cash on Delivery,Shipped
+ORD10457,2025-01-13,CUST1084,Vijay F.,Delhi,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Cash on Delivery,Delivered
+ORD10458,2025-03-27,CUST1086,Karthik A.,Hyderabad,Beauty,Face Wash,1,399,0.0,399.0,119.7,Credit Card,Delivered
+ORD10459,2025-08-22,CUST1023,Suresh Z.,Mumbai,Electronics,Bluetooth Speaker,3,1999,0.0,5997.0,1319.34,Credit Card,Delivered
+ORD10460,2025-03-31,CUST1061,Hari N.,Kolkata,Books,Novel,1,449,15.0,381.65,42.94,Net Banking,Delivered
+ORD10461,2025-11-10,CUST1042,Ajay I.,Chennai,Home & Kitchen,Electric Kettle,1,1299,5.0,1234.05,219.04,Credit Card,Delivered
+ORD10462,2025-02-23,CUST1183,Lakshmi A.,Pune,Fashion,Women's Kurti,1,999,10.0,899.1,247.25,Cash on Delivery,Delivered
+ORD10463,2025-01-12,CUST1053,Suresh G.,Hyderabad,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,UPI,Delivered
+ORD10464,2025-07-28,CUST1035,Nandhini D.,Ahmedabad,Home & Kitchen,Cookware Set,4,2499,5.0,0.0,0.0,UPI,Cancelled
+ORD10465,2025-01-14,CUST1029,Anitha R.,Delhi,Fashion,Sports Shoes,1,2199,5.0,2089.05,579.71,Net Banking,Delivered
+ORD10466,2025-05-01,CUST1064,Pooja G.,Jaipur,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Credit Card,Delivered
+ORD10467,2025-01-20,CUST1145,Arun N.,Delhi,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Net Banking,Shipped
+ORD10468,2025-03-16,CUST1055,Sneha B.,Mumbai,Beauty,Perfume,2,1299,20.0,2078.4,332.54,Cash on Delivery,Delivered
+ORD10469,2025-08-31,CUST1090,Suresh T.,Mumbai,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,Credit Card,Delivered
+ORD10470,2025-08-11,CUST1117,Arun H.,Chennai,Home & Kitchen,Mixer Grinder,1,3299,25.0,2474.25,167.01,Debit Card,Delivered
+ORD10471,2025-03-11,CUST1051,Arun E.,Delhi,Books,Self Help Book,2,549,5.0,1043.1,174.72,Cash on Delivery,Delivered
+ORD10472,2025-11-08,CUST1032,Nandhini D.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,5.0,1234.05,219.04,Credit Card,Delivered
+ORD10473,2025-07-30,CUST1179,Rahul R.,Chennai,Electronics,Power Bank,1,899,15.0,764.15,101.25,UPI,Delivered
+ORD10474,2025-04-11,CUST1031,Priya F.,Kolkata,Fashion,Jeans,1,1599,5.0,1519.05,391.16,Credit Card,Delivered
+ORD10475,2025-07-05,CUST1039,Meena U.,Ahmedabad,Fashion,Sports Shoes,3,2199,0.0,6597.0,1979.1,Credit Card,Delivered
+ORD10476,2025-05-12,CUST1243,Ravi L.,Bengaluru,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,Credit Card,Delivered
+ORD10477,2025-04-21,CUST1000,Vijay T.,Jaipur,Electronics,Smart Watch,3,2499,10.0,6747.3,1383.2,Credit Card,Delivered
+ORD10478,2025-05-12,CUST1006,Anitha H.,Mumbai,Electronics,Wireless Headphones,2,1499,5.0,2848.1,733.39,Cash on Delivery,Delivered
+ORD10479,2025-01-20,CUST1026,Sneha H.,Kolkata,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,Cash on Delivery,Delivered
+ORD10480,2025-01-24,CUST1209,Priya V.,Chennai,Electronics,Bluetooth Speaker,1,1999,20.0,1599.2,207.9,UPI,Delivered
+ORD10481,2025-08-15,CUST1001,Hari K.,Jaipur,Fashion,Women's Kurti,4,999,10.0,3596.4,989.01,Credit Card,Delivered
+ORD10482,2025-06-03,CUST1000,Vijay T.,Jaipur,Books,Programming Book,1,799,10.0,719.1,125.84,UPI,Delivered
+ORD10483,2025-10-20,CUST1000,Vijay T.,Jaipur,Beauty,Moisturizer,1,599,15.0,509.15,108.19,Net Banking,Delivered
+ORD10484,2025-08-18,CUST1001,Hari K.,Jaipur,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,Credit Card,Delivered
+ORD10485,2025-11-06,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,1,899,15.0,764.15,101.25,Credit Card,Delivered
+ORD10486,2025-12-25,CUST1042,Ajay I.,Chennai,Electronics,Wireless Headphones,1,1499,0.0,1499.0,419.72,Credit Card,Delivered
+ORD10487,2025-07-21,CUST1066,Hari Z.,Jaipur,Electronics,Power Bank,1,899,25.0,0.0,0.0,Debit Card,Cancelled
+ORD10488,2025-02-07,CUST1012,Sneha Y.,Ahmedabad,Home & Kitchen,Electric Kettle,1,1299,25.0,974.25,85.25,Credit Card,Delivered
+ORD10489,2025-09-17,CUST1028,Pooja Q.,Kolkata,Fashion,Sports Shoes,1,2199,5.0,2089.05,579.71,UPI,Delivered
+ORD10490,2025-07-07,CUST1001,Hari K.,Jaipur,Books,Novel,1,449,5.0,426.55,67.18,UPI,Delivered
+ORD10491,2025-02-26,CUST1019,Vikram G.,Coimbatore,Beauty,Moisturizer,2,599,15.0,1018.3,216.39,Debit Card,Returned
+ORD10492,2025-01-20,CUST1051,Arun E.,Delhi,Fashion,Women's Kurti,4,999,10.0,3596.4,989.01,Credit Card,Delivered
+ORD10493,2025-09-30,CUST1115,Lakshmi G.,Ahmedabad,Electronics,Power Bank,3,899,10.0,2427.3,376.23,Credit Card,Delivered
+ORD10494,2025-04-29,CUST1000,Vijay T.,Jaipur,Beauty,Moisturizer,1,599,20.0,479.2,91.05,UPI,Delivered
+ORD10495,2025-03-12,CUST1040,Keerthi M.,Pune,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Debit Card,Delivered
+ORD10496,2025-01-04,CUST1015,Hari S.,Mumbai,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Debit Card,Delivered
+ORD10497,2025-08-09,CUST1167,Swathi Y.,Ahmedabad,Fashion,Women's Kurti,2,999,10.0,1798.2,494.51,Net Banking,Delivered
+ORD10498,2025-01-14,CUST1109,Keerthi A.,Ahmedabad,Books,Self Help Book,1,549,10.0,494.1,71.64,Cash on Delivery,Delivered
+ORD10499,2025-01-03,CUST1068,Vikram G.,Hyderabad,Beauty,Shampoo,2,499,10.0,898.2,202.1,Debit Card,Delivered
+ORD10500,2025-08-04,CUST1013,Manoj J.,Delhi,Home & Kitchen,Electric Kettle,3,1299,10.0,3507.3,543.63,UPI,Delivered
+ORD10501,2025-08-17,CUST1197,Anitha F.,Hyderabad,Fashion,Women's Kurti,1,999,10.0,899.1,247.25,Debit Card,Delivered
+ORD10502,2025-12-02,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,Debit Card,Delivered
+ORD10503,2025-07-05,CUST1002,Meena U.,Bengaluru,Electronics,Power Bank,1,899,10.0,809.1,125.41,Debit Card,Delivered
+ORD10504,2025-02-24,CUST1027,Hari C.,Coimbatore,Electronics,Wireless Headphones,1,1499,0.0,1499.0,419.72,Cash on Delivery,Delivered
+ORD10505,2025-09-11,CUST1003,Vijay Z.,Hyderabad,Electronics,Smart Watch,2,2499,0.0,4998.0,1249.5,Credit Card,Delivered
+ORD10506,2025-01-24,CUST1223,Vijay D.,Hyderabad,Books,Business Book,1,599,10.0,539.1,83.56,UPI,Delivered
+ORD10507,2025-06-11,CUST1142,Rahul P.,Coimbatore,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,UPI,Delivered
+ORD10508,2025-06-07,CUST1011,Arun L.,Mumbai,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,Cash on Delivery,Delivered
+ORD10509,2025-03-23,CUST1068,Vikram G.,Hyderabad,Electronics,Wireless Headphones,2,1499,0.0,2998.0,839.44,Credit Card,Delivered
+ORD10510,2025-06-08,CUST1238,Arun S.,Pune,Electronics,Power Bank,1,899,5.0,854.05,151.59,Debit Card,Delivered
+ORD10511,2025-07-07,CUST1183,Lakshmi A.,Pune,Books,Business Book,1,599,10.0,539.1,83.56,UPI,Delivered
+ORD10512,2025-03-01,CUST1071,Vijay M.,Ahmedabad,Fashion,Women's Kurti,2,999,5.0,1898.1,564.68,Debit Card,Shipped
+ORD10513,2025-11-01,CUST1193,Ravi E.,Chennai,Electronics,Bluetooth Speaker,2,1999,25.0,2998.5,322.34,Net Banking,Shipped
+ORD10514,2025-11-15,CUST1243,Ravi L.,Bengaluru,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,Debit Card,Delivered
+ORD10515,2025-07-30,CUST1119,Meena A.,Delhi,Electronics,Bluetooth Speaker,1,1999,5.0,1899.05,375.06,Cash on Delivery,Delivered
+ORD10516,2025-06-01,CUST1001,Hari K.,Jaipur,Home & Kitchen,Mixer Grinder,2,3299,0.0,6598.0,1187.64,UPI,Delivered
+ORD10517,2025-04-19,CUST1028,Pooja Q.,Kolkata,Electronics,Power Bank,2,899,10.0,1618.2,250.82,UPI,Delivered
+ORD10518,2025-03-17,CUST1160,Sneha N.,Delhi,Books,Programming Book,3,799,15.0,2037.45,310.71,UPI,Delivered
+ORD10519,2025-01-30,CUST1009,Sneha F.,Bengaluru,Beauty,Perfume,1,1299,10.0,1169.1,239.67,Debit Card,Delivered
+ORD10520,2025-11-10,CUST1157,Keerthi S.,Chennai,Beauty,Face Wash,1,399,15.0,339.15,78.85,UPI,Delivered
+ORD10521,2025-04-27,CUST1002,Meena U.,Bengaluru,Beauty,Perfume,3,1299,15.0,3312.45,604.52,Debit Card,Delivered
+ORD10522,2025-12-22,CUST1000,Vijay T.,Jaipur,Electronics,Wireless Headphones,1,1499,5.0,0.0,0.0,Debit Card,Cancelled
+ORD10523,2025-07-11,CUST1026,Sneha H.,Kolkata,Books,Programming Book,1,799,0.0,799.0,175.78,Net Banking,Delivered
+ORD10524,2025-01-19,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,1,899,25.0,674.25,59.0,Cash on Delivery,Delivered
+ORD10525,2025-06-22,CUST1223,Vijay D.,Hyderabad,Home & Kitchen,Storage Container Set,1,799,15.0,679.15,76.4,Cash on Delivery,Delivered
+ORD10526,2025-08-16,CUST1155,Arun O.,Mumbai,Fashion,Women's Kurti,2,999,10.0,1798.2,494.51,UPI,Returned
+ORD10527,2025-12-16,CUST1143,Suresh D.,Pune,Electronics,Bluetooth Speaker,4,1999,15.0,0.0,0.0,Credit Card,Cancelled
+ORD10528,2025-07-02,CUST1080,Vijay A.,Bengaluru,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,Cash on Delivery,Returned
+ORD10529,2025-04-23,CUST1008,Priya X.,Delhi,Electronics,Bluetooth Speaker,2,1999,0.0,3998.0,879.56,Credit Card,Delivered
+ORD10530,2025-07-02,CUST1050,Rahul C.,Jaipur,Home & Kitchen,Storage Container Set,3,799,0.0,2397.0,431.46,UPI,Delivered
+ORD10531,2025-05-26,CUST1070,Anitha E.,Bengaluru,Electronics,Wireless Headphones,1,1499,20.0,0.0,0.0,UPI,Cancelled
+ORD10532,2025-11-15,CUST1052,Nandhini G.,Delhi,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Credit Card,Delivered
+ORD10533,2025-04-26,CUST1011,Arun L.,Mumbai,Electronics,Power Bank,1,899,0.0,899.0,179.8,UPI,Delivered
+ORD10534,2025-04-23,CUST1050,Rahul C.,Jaipur,Electronics,Smart Watch,1,2499,25.0,1874.25,257.71,Cash on Delivery,Delivered
+ORD10535,2025-09-08,CUST1045,Vijay I.,Hyderabad,Fashion,Women's Kurti,2,999,10.0,1798.2,494.51,Credit Card,Delivered
+ORD10536,2025-09-08,CUST1247,Rahul W.,Chennai,Home & Kitchen,Cookware Set,1,2499,20.0,1999.2,139.94,UPI,Delivered
+ORD10537,2025-10-30,CUST1190,Manoj T.,Delhi,Home & Kitchen,Cookware Set,4,2499,10.0,8996.4,1034.59,Credit Card,Shipped
+ORD10538,2025-11-09,CUST1039,Meena U.,Ahmedabad,Fashion,Sports Shoes,2,2199,15.0,0.0,0.0,Credit Card,Cancelled
+ORD10539,2025-04-28,CUST1078,Sneha T.,Jaipur,Electronics,Smart Watch,4,2499,15.0,8496.6,1550.63,UPI,Shipped
+ORD10540,2025-10-28,CUST1121,Swathi W.,Jaipur,Home & Kitchen,Mixer Grinder,1,3299,0.0,3299.0,593.82,Debit Card,Shipped
+ORD10541,2025-06-10,CUST1000,Vijay T.,Jaipur,Electronics,Smart Watch,2,2499,0.0,4998.0,1249.5,Net Banking,Delivered
+ORD10542,2025-07-17,CUST1189,Vikram Y.,Chennai,Electronics,Smart Watch,3,2499,10.0,6747.3,1383.2,Debit Card,Delivered
+ORD10543,2025-09-17,CUST1171,Swathi O.,Bengaluru,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,UPI,Delivered
+ORD10544,2025-05-28,CUST1038,Pooja W.,Mumbai,Home & Kitchen,Electric Kettle,3,1299,0.0,3897.0,779.4,Credit Card,Delivered
+ORD10545,2025-08-28,CUST1027,Hari C.,Coimbatore,Electronics,Smart Watch,1,2499,15.0,2124.15,387.66,Net Banking,Delivered
+ORD10546,2025-02-16,CUST1012,Sneha Y.,Ahmedabad,Electronics,Power Bank,4,899,10.0,3236.4,501.64,Debit Card,Delivered
+ORD10547,2025-07-17,CUST1042,Ajay I.,Chennai,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,Debit Card,Delivered
+ORD10548,2025-02-16,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,2,899,0.0,1798.0,359.6,Debit Card,Delivered
+ORD10549,2025-03-19,CUST1167,Swathi Y.,Ahmedabad,Beauty,Perfume,1,1299,5.0,1234.05,280.75,Cash on Delivery,Shipped
+ORD10550,2025-05-04,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Mixer Grinder,4,3299,0.0,13196.0,2375.28,Net Banking,Delivered
+ORD10551,2025-03-16,CUST1018,Rahul E.,Ahmedabad,Fashion,Men's T-Shirt,4,699,0.0,2796.0,978.6,Credit Card,Delivered
+ORD10552,2025-12-25,CUST1209,Priya V.,Chennai,Electronics,Power Bank,2,899,10.0,1618.2,250.82,Cash on Delivery,Delivered
+ORD10553,2025-05-17,CUST1116,Lakshmi I.,Coimbatore,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,UPI,Delivered
+ORD10554,2025-03-31,CUST1013,Manoj J.,Delhi,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,Credit Card,Delivered
+ORD10555,2025-11-21,CUST1010,Priya U.,Coimbatore,Home & Kitchen,Mixer Grinder,1,3299,15.0,2804.15,315.47,Net Banking,Delivered
+ORD10556,2025-03-02,CUST1000,Vijay T.,Jaipur,Electronics,Smart Watch,4,2499,15.0,8496.6,1550.63,UPI,Delivered
+ORD10557,2025-05-18,CUST1101,Sneha Z.,Jaipur,Fashion,Jeans,2,1599,25.0,2398.5,401.75,UPI,Delivered
+ORD10558,2025-02-19,CUST1000,Vijay T.,Jaipur,Fashion,Sports Shoes,1,2199,0.0,2199.0,659.7,UPI,Delivered
+ORD10559,2025-09-16,CUST1054,Suresh H.,Ahmedabad,Beauty,Face Wash,1,399,10.0,359.1,91.57,Debit Card,Delivered
+ORD10560,2025-04-17,CUST1226,Karthik D.,Pune,Books,Self Help Book,1,549,20.0,439.2,43.92,Cash on Delivery,Delivered
+ORD10561,2025-04-23,CUST1002,Meena U.,Bengaluru,Beauty,Perfume,1,1299,15.0,1104.15,201.51,Credit Card,Delivered
+ORD10562,2025-12-16,CUST1188,Priya W.,Hyderabad,Fashion,Jeans,1,1599,15.0,1359.15,288.82,UPI,Delivered
+ORD10563,2025-09-11,CUST1244,Ajay L.,Mumbai,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Credit Card,Delivered
+ORD10564,2025-04-28,CUST1001,Hari K.,Jaipur,Books,Novel,2,449,10.0,808.2,109.11,Cash on Delivery,Delivered
+ORD10565,2025-07-17,CUST1182,Anitha M.,Ahmedabad,Home & Kitchen,Cookware Set,2,2499,5.0,4748.1,652.86,UPI,Delivered
+ORD10566,2025-12-03,CUST1050,Rahul C.,Jaipur,Home & Kitchen,Cookware Set,2,2499,0.0,4998.0,799.68,Credit Card,Delivered
+ORD10567,2025-12-31,CUST1195,Sneha L.,Delhi,Home & Kitchen,Electric Kettle,3,1299,25.0,2922.75,255.74,Credit Card,Delivered
+ORD10568,2025-02-20,CUST1063,Karthik Z.,Jaipur,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,UPI,Delivered
+ORD10569,2025-09-02,CUST1090,Suresh T.,Mumbai,Beauty,Face Wash,1,399,5.0,379.05,105.19,Credit Card,Delivered
+ORD10570,2025-02-04,CUST1056,Arun P.,Delhi,Electronics,Smart Watch,2,2499,10.0,4498.2,922.13,Debit Card,Delivered
+ORD10571,2025-10-29,CUST1173,Priya Z.,Kolkata,Fashion,Men's T-Shirt,1,699,15.0,594.15,167.85,Debit Card,Delivered
+ORD10572,2025-03-10,CUST1116,Lakshmi I.,Coimbatore,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Net Banking,Delivered
+ORD10573,2025-12-15,CUST1051,Arun E.,Delhi,Home & Kitchen,Cookware Set,1,2499,15.0,2124.15,196.48,Credit Card,Delivered
+ORD10574,2025-11-16,CUST1175,Arun I.,Chennai,Electronics,Smart Watch,1,2499,0.0,2499.0,624.75,Credit Card,Delivered
+ORD10575,2025-02-18,CUST1010,Priya U.,Coimbatore,Electronics,Smart Watch,1,2499,5.0,2374.05,540.1,UPI,Delivered
+ORD10576,2025-03-15,CUST1004,Vikram W.,Ahmedabad,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,UPI,Shipped
+ORD10577,2025-07-11,CUST1004,Vikram W.,Ahmedabad,Beauty,Shampoo,3,499,5.0,1422.15,351.98,UPI,Delivered
+ORD10578,2025-09-18,CUST1019,Vikram G.,Coimbatore,Electronics,Power Bank,1,899,0.0,899.0,179.8,Debit Card,Delivered
+ORD10579,2025-12-22,CUST1009,Sneha F.,Bengaluru,Fashion,Sports Shoes,1,2199,0.0,2199.0,659.7,Debit Card,Delivered
+ORD10580,2025-03-11,CUST1208,Arun O.,Ahmedabad,Home & Kitchen,Storage Container Set,1,799,20.0,639.2,57.53,Credit Card,Delivered
+ORD10581,2025-03-31,CUST1002,Meena U.,Bengaluru,Beauty,Perfume,1,1299,15.0,1104.15,201.51,Debit Card,Returned
+ORD10582,2025-09-17,CUST1103,Anitha W.,Kolkata,Electronics,Wireless Headphones,2,1499,10.0,2698.2,634.08,Credit Card,Delivered
+ORD10583,2025-05-06,CUST1006,Anitha H.,Mumbai,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,UPI,Delivered
+ORD10584,2025-08-19,CUST1182,Anitha M.,Ahmedabad,Beauty,Perfume,2,1299,15.0,2208.3,403.01,Credit Card,Delivered
+ORD10585,2025-10-22,CUST1226,Karthik D.,Pune,Home & Kitchen,Mixer Grinder,1,3299,0.0,3299.0,593.82,Credit Card,Delivered
+ORD10586,2025-05-09,CUST1039,Meena U.,Ahmedabad,Electronics,Wireless Headphones,2,1499,5.0,2848.1,733.39,Credit Card,Delivered
+ORD10587,2025-10-07,CUST1180,Ajay Z.,Delhi,Home & Kitchen,Electric Kettle,2,1299,15.0,2208.3,292.6,Debit Card,Delivered
+ORD10588,2025-11-09,CUST1000,Vijay T.,Jaipur,Fashion,Men's T-Shirt,1,699,15.0,594.15,167.85,UPI,Delivered
+ORD10589,2025-04-10,CUST1152,Divya M.,Bengaluru,Electronics,Smart Watch,2,2499,0.0,4998.0,1249.5,Credit Card,Delivered
+ORD10590,2025-11-22,CUST1009,Sneha F.,Bengaluru,Fashion,Women's Kurti,1,999,25.0,749.25,155.47,UPI,Delivered
+ORD10591,2025-10-24,CUST1196,Karthik G.,Pune,Fashion,Women's Kurti,3,999,10.0,2697.3,741.76,Credit Card,Delivered
+ORD10592,2025-07-01,CUST1000,Vijay T.,Jaipur,Fashion,Men's T-Shirt,1,699,15.0,594.15,167.85,Debit Card,Delivered
+ORD10593,2025-06-23,CUST1059,Rahul A.,Kolkata,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,UPI,Delivered
+ORD10594,2025-11-12,CUST1124,Keerthi Y.,Delhi,Books,Business Book,4,599,10.0,2156.4,334.24,Credit Card,Delivered
+ORD10595,2025-12-30,CUST1011,Arun L.,Mumbai,Books,Business Book,2,599,5.0,1138.1,202.01,Net Banking,Delivered
+ORD10596,2025-07-07,CUST1006,Anitha H.,Mumbai,Electronics,Power Bank,2,899,25.0,1348.5,117.99,UPI,Delivered
+ORD10597,2025-02-26,CUST1001,Hari K.,Jaipur,Home & Kitchen,Electric Kettle,4,1299,0.0,5196.0,1039.2,Cash on Delivery,Delivered
+ORD10598,2025-01-31,CUST1018,Rahul E.,Ahmedabad,Fashion,Jeans,2,1599,5.0,3038.1,782.31,Debit Card,Delivered
+ORD10599,2025-03-25,CUST1060,Rahul E.,Ahmedabad,Fashion,Jeans,1,1599,15.0,1359.15,288.82,Debit Card,Delivered
+ORD10600,2025-06-01,CUST1002,Meena U.,Bengaluru,Electronics,Smart Watch,1,2499,15.0,2124.15,387.66,Net Banking,Delivered
+ORD10601,2025-02-05,CUST1024,Priya T.,Bengaluru,Home & Kitchen,Mixer Grinder,1,3299,25.0,2474.25,167.01,Credit Card,Delivered
+ORD10602,2025-08-01,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Mixer Grinder,2,3299,15.0,5608.3,630.93,UPI,Delivered
+ORD10603,2025-12-30,CUST1151,Pooja F.,Jaipur,Home & Kitchen,Cookware Set,2,2499,0.0,4998.0,799.68,Credit Card,Shipped
+ORD10604,2025-04-16,CUST1003,Vijay Z.,Hyderabad,Beauty,Perfume,5,1299,10.0,5845.5,1198.33,Cash on Delivery,Delivered
+ORD10605,2025-12-08,CUST1013,Manoj J.,Delhi,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,Cash on Delivery,Delivered
+ORD10606,2025-08-08,CUST1000,Vijay T.,Jaipur,Fashion,Sports Shoes,1,2199,5.0,2089.05,579.71,Debit Card,Delivered
+ORD10607,2025-06-12,CUST1033,Swathi Z.,Ahmedabad,Fashion,Sports Shoes,3,2199,10.0,5937.3,1514.01,UPI,Delivered
+ORD10608,2025-08-08,CUST1161,Divya C.,Mumbai,Electronics,Smart Watch,2,2499,15.0,4248.3,775.31,Cash on Delivery,Delivered
+ORD10609,2025-09-27,CUST1027,Hari C.,Coimbatore,Home & Kitchen,Cookware Set,2,2499,15.0,4248.3,392.97,UPI,Delivered
+ORD10610,2025-04-30,CUST1005,Ravi K.,Kolkata,Fashion,Women's Kurti,5,999,10.0,4495.5,1236.26,UPI,Returned
+ORD10611,2025-12-02,CUST1123,Vijay P.,Pune,Books,Programming Book,2,799,10.0,1438.2,251.68,Credit Card,Delivered
+ORD10612,2025-07-01,CUST1138,Rahul P.,Hyderabad,Fashion,Jeans,2,1599,5.0,3038.1,782.31,Debit Card,Delivered
+ORD10613,2025-04-16,CUST1005,Ravi K.,Kolkata,Fashion,Jeans,4,1599,10.0,5756.4,1352.75,UPI,Delivered
+ORD10614,2025-08-05,CUST1130,Rahul S.,Ahmedabad,Beauty,Face Wash,1,399,15.0,339.15,78.85,UPI,Delivered
+ORD10615,2025-07-24,CUST1218,Hari Q.,Jaipur,Beauty,Moisturizer,2,599,20.0,958.4,182.1,UPI,Delivered
+ORD10616,2025-03-11,CUST1005,Ravi K.,Kolkata,Home & Kitchen,Mixer Grinder,1,3299,25.0,2474.25,167.01,UPI,Delivered
+ORD10617,2025-02-13,CUST1130,Rahul S.,Ahmedabad,Beauty,Perfume,1,1299,10.0,1169.1,239.67,Cash on Delivery,Delivered
+ORD10618,2025-11-25,CUST1106,Karthik T.,Jaipur,Electronics,Bluetooth Speaker,4,1999,5.0,7596.2,1500.25,UPI,Delivered
+ORD10619,2025-10-28,CUST1041,Swathi O.,Hyderabad,Electronics,Bluetooth Speaker,1,1999,15.0,1699.15,259.12,Credit Card,Delivered
+ORD10620,2025-08-16,CUST1001,Hari K.,Jaipur,Home & Kitchen,Cookware Set,4,2499,0.0,9996.0,1599.36,UPI,Returned
+ORD10621,2025-07-03,CUST1001,Hari K.,Jaipur,Books,Business Book,2,599,5.0,1138.1,202.01,Cash on Delivery,Delivered
+ORD10622,2025-04-17,CUST1167,Swathi Y.,Ahmedabad,Beauty,Face Wash,4,399,5.0,1516.2,420.75,Debit Card,Delivered
+ORD10623,2025-03-25,CUST1243,Ravi L.,Bengaluru,Fashion,Men's T-Shirt,4,699,15.0,2376.6,671.39,UPI,Delivered
+ORD10624,2025-12-04,CUST1095,Karthik Q.,Mumbai,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,Credit Card,Delivered
+ORD10625,2025-09-07,CUST1036,Pooja P.,Chennai,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,UPI,Delivered
+ORD10626,2025-12-29,CUST1085,Meena I.,Pune,Electronics,Power Bank,1,899,0.0,899.0,179.8,UPI,Delivered
+ORD10627,2025-01-21,CUST1070,Anitha E.,Bengaluru,Electronics,Power Bank,2,899,10.0,1618.2,250.82,UPI,Delivered
+ORD10628,2025-07-15,CUST1026,Sneha H.,Kolkata,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,Credit Card,Delivered
+ORD10629,2025-06-27,CUST1001,Hari K.,Jaipur,Electronics,Power Bank,2,899,25.0,1348.5,117.99,Net Banking,Delivered
+ORD10630,2025-01-07,CUST1152,Divya M.,Bengaluru,Electronics,Power Bank,1,899,5.0,854.05,151.59,Cash on Delivery,Delivered
+ORD10631,2025-03-11,CUST1024,Priya T.,Bengaluru,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,UPI,Delivered
+ORD10632,2025-05-07,CUST1151,Pooja F.,Jaipur,Books,Business Book,4,599,25.0,1797.0,157.24,UPI,Delivered
+ORD10633,2025-06-09,CUST1010,Priya U.,Coimbatore,Home & Kitchen,Electric Kettle,1,1299,20.0,1039.2,114.31,Debit Card,Delivered
+ORD10634,2025-09-05,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,2,899,15.0,1528.3,202.5,UPI,Delivered
+ORD10635,2025-07-22,CUST1004,Vikram W.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Credit Card,Delivered
+ORD10636,2025-05-28,CUST1040,Keerthi M.,Pune,Electronics,Wireless Headphones,2,1499,20.0,2398.4,455.7,UPI,Delivered
+ORD10637,2025-05-23,CUST1216,Karthik V.,Coimbatore,Beauty,Face Wash,1,399,10.0,359.1,91.57,Net Banking,Shipped
+ORD10638,2025-07-18,CUST1002,Meena U.,Bengaluru,Home & Kitchen,Storage Container Set,2,799,25.0,1198.5,80.9,UPI,Delivered
+ORD10639,2025-06-03,CUST1168,Nandhini V.,Bengaluru,Fashion,Jeans,1,1599,5.0,1519.05,391.16,Cash on Delivery,Delivered
+ORD10640,2025-05-22,CUST1052,Nandhini G.,Delhi,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,Credit Card,Delivered
+ORD10641,2025-11-09,CUST1154,Meena B.,Ahmedabad,Books,Novel,3,449,5.0,1279.65,201.54,UPI,Delivered
+ORD10642,2025-06-14,CUST1015,Hari S.,Mumbai,Electronics,Power Bank,2,899,5.0,1708.1,303.19,UPI,Delivered
+ORD10643,2025-11-10,CUST1161,Divya C.,Mumbai,Electronics,Smart Watch,2,2499,0.0,4998.0,1249.5,Credit Card,Delivered
+ORD10644,2025-01-21,CUST1131,Keerthi P.,Bengaluru,Electronics,Smart Watch,2,2499,5.0,4748.1,1080.19,UPI,Delivered
+ORD10645,2025-03-23,CUST1009,Sneha F.,Bengaluru,Beauty,Moisturizer,2,599,10.0,1078.2,253.38,Cash on Delivery,Delivered
+ORD10646,2025-03-10,CUST1003,Vijay Z.,Hyderabad,Fashion,Jeans,3,1599,0.0,4797.0,1343.16,Debit Card,Delivered
+ORD10647,2025-05-11,CUST1175,Arun I.,Chennai,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,Debit Card,Delivered
+ORD10648,2025-03-28,CUST1227,Priya T.,Delhi,Home & Kitchen,Mixer Grinder,4,3299,0.0,13196.0,2375.28,Debit Card,Delivered
+ORD10649,2025-08-06,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,UPI,Delivered
+ORD10650,2025-11-01,CUST1115,Lakshmi G.,Ahmedabad,Home & Kitchen,Storage Container Set,1,799,15.0,679.15,76.4,Debit Card,Delivered
+ORD10651,2025-12-11,CUST1196,Karthik G.,Pune,Beauty,Face Wash,1,399,15.0,339.15,78.85,Credit Card,Delivered
+ORD10652,2025-12-07,CUST1169,Rahul H.,Jaipur,Electronics,Power Bank,1,899,10.0,809.1,125.41,Credit Card,Delivered
+ORD10653,2025-06-10,CUST1228,Nandhini Z.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,UPI,Delivered
+ORD10654,2025-06-27,CUST1126,Priya A.,Mumbai,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,UPI,Delivered
+ORD10655,2025-04-27,CUST1035,Nandhini D.,Ahmedabad,Beauty,Moisturizer,1,599,15.0,509.15,108.19,Credit Card,Delivered
+ORD10656,2025-07-15,CUST1016,Sneha W.,Jaipur,Electronics,Bluetooth Speaker,1,1999,5.0,1899.05,375.06,Cash on Delivery,Delivered
+ORD10657,2025-11-23,CUST1017,Lakshmi Y.,Delhi,Home & Kitchen,Storage Container Set,2,799,10.0,1438.2,194.16,UPI,Delivered
+ORD10658,2025-03-27,CUST1112,Lakshmi D.,Hyderabad,Electronics,Wireless Headphones,1,1499,0.0,1499.0,419.72,UPI,Delivered
+ORD10659,2025-10-16,CUST1120,Ravi Y.,Pune,Home & Kitchen,Mixer Grinder,4,3299,15.0,11216.6,1261.87,Credit Card,Delivered
+ORD10660,2025-03-22,CUST1007,Rahul V.,Jaipur,Electronics,Power Bank,3,899,5.0,2562.15,454.78,Debit Card,Delivered
+ORD10661,2025-06-01,CUST1175,Arun I.,Chennai,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,UPI,Delivered
+ORD10662,2025-03-02,CUST1108,Ravi P.,Coimbatore,Beauty,Shampoo,1,499,10.0,449.1,101.05,UPI,Delivered
+ORD10663,2025-03-02,CUST1061,Hari N.,Kolkata,Electronics,Power Bank,5,899,5.0,4270.25,757.97,Debit Card,Delivered
+ORD10664,2025-12-20,CUST1041,Swathi O.,Hyderabad,Electronics,Bluetooth Speaker,2,1999,0.0,0.0,0.0,UPI,Cancelled
+ORD10665,2025-01-28,CUST1056,Arun P.,Delhi,Home & Kitchen,Mixer Grinder,4,3299,5.0,12536.2,1974.45,UPI,Delivered
+ORD10666,2025-02-12,CUST1004,Vikram W.,Ahmedabad,Fashion,Jeans,1,1599,25.0,1199.25,200.87,Debit Card,Delivered
+ORD10667,2025-06-18,CUST1007,Rahul V.,Jaipur,Electronics,Wireless Headphones,2,1499,5.0,2848.1,733.39,Credit Card,Delivered
+ORD10668,2025-03-27,CUST1001,Hari K.,Jaipur,Beauty,Face Wash,3,399,0.0,1197.0,359.1,Credit Card,Delivered
+ORD10669,2025-06-26,CUST1004,Vikram W.,Ahmedabad,Electronics,Wireless Headphones,3,1499,0.0,4497.0,1259.16,Net Banking,Delivered
+ORD10670,2025-01-17,CUST1037,Hari H.,Chennai,Beauty,Perfume,2,1299,25.0,0.0,0.0,UPI,Cancelled
+ORD10671,2025-04-08,CUST1053,Suresh G.,Hyderabad,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Credit Card,Delivered
+ORD10672,2025-07-17,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,2,899,10.0,1618.2,250.82,UPI,Delivered
+ORD10673,2025-04-08,CUST1141,Swathi B.,Jaipur,Electronics,Smart Watch,2,2499,15.0,4248.3,775.31,UPI,Delivered
+ORD10674,2025-03-06,CUST1014,Keerthi O.,Ahmedabad,Home & Kitchen,Cookware Set,3,2499,10.0,6747.3,775.94,UPI,Delivered
+ORD10675,2025-11-26,CUST1198,Ajay T.,Delhi,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,UPI,Shipped
+ORD10676,2025-12-07,CUST1230,Arun X.,Kolkata,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Debit Card,Delivered
+ORD10677,2025-01-05,CUST1006,Anitha H.,Mumbai,Electronics,Wireless Headphones,3,1499,15.0,3822.45,812.27,Net Banking,Delivered
+ORD10678,2025-01-02,CUST1039,Meena U.,Ahmedabad,Home & Kitchen,Electric Kettle,3,1299,10.0,3507.3,543.63,Debit Card,Delivered
+ORD10679,2025-01-22,CUST1000,Vijay T.,Jaipur,Electronics,Wireless Headphones,3,1499,20.0,3597.6,683.54,UPI,Delivered
+ORD10680,2025-04-22,CUST1071,Vijay M.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,UPI,Delivered
+ORD10681,2025-02-26,CUST1073,Anitha M.,Jaipur,Books,Self Help Book,2,549,5.0,1043.1,174.72,Debit Card,Delivered
+ORD10682,2025-03-07,CUST1010,Priya U.,Coimbatore,Fashion,Sports Shoes,3,2199,5.0,6267.15,1739.13,Credit Card,Delivered
+ORD10683,2025-11-26,CUST1060,Rahul E.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,15.0,1699.15,259.12,Debit Card,Delivered
+ORD10684,2025-04-08,CUST1008,Priya X.,Delhi,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,Credit Card,Delivered
+ORD10685,2025-05-24,CUST1004,Vikram W.,Ahmedabad,Home & Kitchen,Electric Kettle,3,1299,10.0,3507.3,543.63,Credit Card,Delivered
+ORD10686,2025-05-05,CUST1087,Vikram J.,Coimbatore,Beauty,Shampoo,2,499,10.0,898.2,202.1,Net Banking,Delivered
+ORD10687,2025-06-16,CUST1018,Rahul E.,Ahmedabad,Books,Business Book,2,599,10.0,1078.2,167.12,UPI,Delivered
+ORD10688,2025-03-27,CUST1068,Vikram G.,Hyderabad,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,UPI,Delivered
+ORD10689,2025-03-17,CUST1033,Swathi Z.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Credit Card,Delivered
+ORD10690,2025-12-10,CUST1240,Sneha C.,Bengaluru,Home & Kitchen,Electric Kettle,1,1299,5.0,1234.05,219.04,UPI,Delivered
+ORD10691,2025-10-21,CUST1004,Vikram W.,Ahmedabad,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,UPI,Delivered
+ORD10692,2025-02-28,CUST1039,Meena U.,Ahmedabad,Beauty,Face Wash,2,399,20.0,638.4,134.06,Cash on Delivery,Delivered
+ORD10693,2025-05-18,CUST1096,Manoj Q.,Pune,Home & Kitchen,Mixer Grinder,1,3299,20.0,2639.2,237.53,Credit Card,Delivered
+ORD10694,2025-04-09,CUST1027,Hari C.,Coimbatore,Home & Kitchen,Cookware Set,1,2499,5.0,2374.05,326.43,Credit Card,Delivered
+ORD10695,2025-07-11,CUST1234,Priya Q.,Hyderabad,Electronics,Power Bank,4,899,25.0,0.0,0.0,Credit Card,Cancelled
+ORD10696,2025-08-31,CUST1111,Keerthi C.,Chennai,Fashion,Women's Kurti,3,999,10.0,2697.3,741.76,Credit Card,Delivered
+ORD10697,2025-11-15,CUST1088,Sneha X.,Chennai,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,UPI,Returned
+ORD10698,2025-02-18,CUST1125,Lakshmi Q.,Delhi,Beauty,Perfume,2,1299,15.0,2208.3,403.01,UPI,Delivered
+ORD10699,2025-02-01,CUST1221,Keerthi Z.,Pune,Fashion,Men's T-Shirt,2,699,10.0,1258.2,383.75,UPI,Delivered
+ORD10700,2025-10-04,CUST1196,Karthik G.,Pune,Electronics,Power Bank,2,899,0.0,1798.0,359.6,Cash on Delivery,Delivered
+ORD10701,2025-01-20,CUST1112,Lakshmi D.,Hyderabad,Home & Kitchen,Electric Kettle,1,1299,20.0,1039.2,114.31,Cash on Delivery,Delivered
+ORD10702,2025-06-03,CUST1121,Swathi W.,Jaipur,Home & Kitchen,Electric Kettle,1,1299,25.0,974.25,85.25,UPI,Delivered
+ORD10703,2025-03-09,CUST1004,Vikram W.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,UPI,Delivered
+ORD10704,2025-08-02,CUST1002,Meena U.,Bengaluru,Fashion,Jeans,2,1599,10.0,2878.2,676.38,Cash on Delivery,Delivered
+ORD10705,2025-05-23,CUST1063,Karthik Z.,Jaipur,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Credit Card,Returned
+ORD10706,2025-08-20,CUST1000,Vijay T.,Jaipur,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,UPI,Delivered
+ORD10707,2025-08-01,CUST1043,Hari M.,Mumbai,Electronics,Smart Watch,2,2499,10.0,4498.2,922.13,UPI,Delivered
+ORD10708,2025-03-20,CUST1007,Rahul V.,Jaipur,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,UPI,Delivered
+ORD10709,2025-08-02,CUST1020,Suresh G.,Hyderabad,Electronics,Power Bank,2,899,5.0,1708.1,303.19,UPI,Delivered
+ORD10710,2025-04-26,CUST1132,Rahul T.,Ahmedabad,Fashion,Sports Shoes,1,2199,25.0,1649.25,309.23,UPI,Delivered
+ORD10711,2025-04-02,CUST1214,Rahul L.,Coimbatore,Electronics,Smart Watch,3,2499,5.0,7122.15,1620.29,UPI,Delivered
+ORD10712,2025-09-27,CUST1001,Hari K.,Jaipur,Home & Kitchen,Electric Kettle,2,1299,5.0,0.0,0.0,Debit Card,Cancelled
+ORD10713,2025-06-17,CUST1054,Suresh H.,Ahmedabad,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,Credit Card,Delivered
+ORD10714,2025-02-27,CUST1182,Anitha M.,Ahmedabad,Home & Kitchen,Cookware Set,4,2499,0.0,9996.0,1599.36,UPI,Delivered
+ORD10715,2025-10-11,CUST1001,Hari K.,Jaipur,Fashion,Women's Kurti,1,999,15.0,849.15,214.41,Debit Card,Delivered
+ORD10716,2025-01-26,CUST1154,Meena B.,Ahmedabad,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,Net Banking,Delivered
+ORD10717,2025-03-07,CUST1022,Pooja R.,Hyderabad,Home & Kitchen,Mixer Grinder,2,3299,20.0,5278.4,475.06,Credit Card,Delivered
+ORD10718,2025-09-05,CUST1017,Lakshmi Y.,Delhi,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,Credit Card,Delivered
+ORD10719,2025-09-11,CUST1236,Sneha R.,Pune,Fashion,Jeans,1,1599,10.0,1439.1,338.19,Debit Card,Delivered
+ORD10720,2025-02-13,CUST1007,Rahul V.,Jaipur,Fashion,Sports Shoes,1,2199,0.0,2199.0,659.7,UPI,Delivered
+ORD10721,2025-04-07,CUST1101,Sneha Z.,Jaipur,Beauty,Shampoo,1,499,0.0,499.0,134.73,Credit Card,Delivered
+ORD10722,2025-02-11,CUST1152,Divya M.,Bengaluru,Fashion,Men's T-Shirt,2,699,25.0,1048.5,249.02,Cash on Delivery,Delivered
+ORD10723,2025-08-15,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Mixer Grinder,4,3299,15.0,11216.6,1261.87,Credit Card,Returned
+ORD10724,2025-09-19,CUST1093,Vijay B.,Ahmedabad,Electronics,Power Bank,3,899,20.0,2157.6,237.34,Debit Card,Delivered
+ORD10725,2025-06-16,CUST1220,Karthik L.,Bengaluru,Home & Kitchen,Electric Kettle,2,1299,10.0,2338.2,362.42,UPI,Delivered
+ORD10726,2025-10-06,CUST1003,Vijay Z.,Hyderabad,Beauty,Perfume,2,1299,15.0,2208.3,403.01,Credit Card,Delivered
+ORD10727,2025-03-30,CUST1189,Vikram Y.,Chennai,Home & Kitchen,Electric Kettle,2,1299,20.0,0.0,0.0,Credit Card,Cancelled
+ORD10728,2025-06-27,CUST1070,Anitha E.,Bengaluru,Home & Kitchen,Storage Container Set,2,799,25.0,1198.5,80.9,Debit Card,Returned
+ORD10729,2025-07-16,CUST1076,Ajay Y.,Kolkata,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Debit Card,Delivered
+ORD10730,2025-11-03,CUST1075,Priya J.,Pune,Beauty,Perfume,1,1299,10.0,1169.1,239.67,UPI,Delivered
+ORD10731,2025-09-24,CUST1015,Hari S.,Mumbai,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,Cash on Delivery,Delivered
+ORD10732,2025-09-25,CUST1211,Meena M.,Mumbai,Home & Kitchen,Storage Container Set,2,799,5.0,1518.1,239.1,UPI,Delivered
+ORD10733,2025-03-15,CUST1218,Hari Q.,Jaipur,Fashion,Women's Kurti,2,999,0.0,1998.0,639.36,Debit Card,Delivered
+ORD10734,2025-01-08,CUST1078,Sneha T.,Jaipur,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Debit Card,Delivered
+ORD10735,2025-10-24,CUST1136,Anitha F.,Pune,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,Debit Card,Delivered
+ORD10736,2025-06-13,CUST1075,Priya J.,Pune,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,Credit Card,Delivered
+ORD10737,2025-03-26,CUST1043,Hari M.,Mumbai,Books,Self Help Book,1,549,10.0,494.1,71.64,Debit Card,Delivered
+ORD10738,2025-03-13,CUST1090,Suresh T.,Mumbai,Home & Kitchen,Storage Container Set,3,799,10.0,2157.3,291.24,Debit Card,Delivered
+ORD10739,2025-02-24,CUST1059,Rahul A.,Kolkata,Books,Novel,1,449,0.0,0.0,0.0,Credit Card,Cancelled
+ORD10740,2025-02-16,CUST1070,Anitha E.,Bengaluru,Books,Self Help Book,4,549,20.0,1756.8,175.68,UPI,Delivered
+ORD10741,2025-08-26,CUST1136,Anitha F.,Pune,Beauty,Perfume,1,1299,10.0,1169.1,239.67,Credit Card,Delivered
+ORD10742,2025-04-14,CUST1042,Ajay I.,Chennai,Home & Kitchen,Cookware Set,1,2499,0.0,2499.0,399.84,Cash on Delivery,Delivered
+ORD10743,2025-07-29,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,3,899,5.0,2562.15,454.78,UPI,Delivered
+ORD10744,2025-02-11,CUST1004,Vikram W.,Ahmedabad,Beauty,Perfume,1,1299,0.0,1299.0,324.75,UPI,Delivered
+ORD10745,2025-11-12,CUST1034,Sneha B.,Hyderabad,Fashion,Jeans,1,1599,10.0,1439.1,338.19,Credit Card,Delivered
+ORD10746,2025-09-25,CUST1112,Lakshmi D.,Hyderabad,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,Debit Card,Delivered
+ORD10747,2025-09-20,CUST1069,Manoj T.,Kolkata,Electronics,Power Bank,1,899,10.0,809.1,125.41,UPI,Delivered
+ORD10748,2025-12-02,CUST1086,Karthik A.,Hyderabad,Beauty,Face Wash,2,399,15.0,0.0,0.0,Credit Card,Cancelled
+ORD10749,2025-12-31,CUST1042,Ajay I.,Chennai,Fashion,Sports Shoes,1,2199,5.0,0.0,0.0,Credit Card,Cancelled
+ORD10750,2025-09-16,CUST1076,Ajay Y.,Kolkata,Electronics,Power Bank,1,899,0.0,899.0,179.8,UPI,Delivered
+ORD10751,2025-10-10,CUST1018,Rahul E.,Ahmedabad,Beauty,Perfume,3,1299,15.0,3312.45,604.52,Credit Card,Returned
+ORD10752,2025-04-24,CUST1040,Keerthi M.,Pune,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,UPI,Delivered
+ORD10753,2025-12-29,CUST1120,Ravi Y.,Pune,Home & Kitchen,Mixer Grinder,1,3299,10.0,0.0,0.0,Debit Card,Cancelled
+ORD10754,2025-02-09,CUST1177,Keerthi G.,Chennai,Beauty,Perfume,1,1299,10.0,1169.1,239.67,Debit Card,Delivered
+ORD10755,2025-08-08,CUST1034,Sneha B.,Hyderabad,Books,Programming Book,2,799,5.0,1518.1,299.82,UPI,Delivered
+ORD10756,2025-05-09,CUST1000,Vijay T.,Jaipur,Electronics,Bluetooth Speaker,1,1999,25.0,1499.25,161.17,Debit Card,Delivered
+ORD10757,2025-01-08,CUST1004,Vikram W.,Ahmedabad,Electronics,Power Bank,3,899,25.0,2022.75,176.99,Credit Card,Delivered
+ORD10758,2025-04-11,CUST1000,Vijay T.,Jaipur,Books,Novel,1,449,15.0,381.65,42.94,UPI,Delivered
+ORD10759,2025-06-25,CUST1087,Vikram J.,Coimbatore,Books,Self Help Book,2,549,20.0,878.4,87.84,UPI,Delivered
+ORD10760,2025-04-17,CUST1019,Vikram G.,Coimbatore,Electronics,Power Bank,1,899,5.0,854.05,151.59,Net Banking,Delivered
+ORD10761,2025-04-11,CUST1056,Arun P.,Delhi,Electronics,Bluetooth Speaker,2,1999,25.0,0.0,0.0,Debit Card,Cancelled
+ORD10762,2025-09-17,CUST1045,Vijay I.,Hyderabad,Home & Kitchen,Storage Container Set,2,799,15.0,1358.3,152.81,Debit Card,Delivered
+ORD10763,2025-09-03,CUST1001,Hari K.,Jaipur,Home & Kitchen,Storage Container Set,1,799,0.0,0.0,0.0,Credit Card,Cancelled
+ORD10764,2025-10-02,CUST1028,Pooja Q.,Kolkata,Home & Kitchen,Cookware Set,1,2499,5.0,2374.05,326.43,UPI,Delivered
+ORD10765,2025-02-01,CUST1008,Priya X.,Delhi,Electronics,Wireless Headphones,4,1499,0.0,5996.0,1678.88,Credit Card,Delivered
+ORD10766,2025-05-17,CUST1031,Priya F.,Kolkata,Electronics,Wireless Headphones,4,1499,10.0,5396.4,1268.15,Net Banking,Delivered
+ORD10767,2025-01-12,CUST1007,Rahul V.,Jaipur,Electronics,Bluetooth Speaker,3,1999,15.0,5097.45,777.36,Cash on Delivery,Shipped
+ORD10768,2025-10-29,CUST1161,Divya C.,Mumbai,Fashion,Jeans,1,1599,20.0,1279.2,243.05,UPI,Delivered
+ORD10769,2025-01-16,CUST1005,Ravi K.,Kolkata,Beauty,Moisturizer,3,599,15.0,1527.45,324.58,Net Banking,Delivered
+ORD10770,2025-05-09,CUST1225,Nandhini V.,Chennai,Electronics,Bluetooth Speaker,1,1999,25.0,1499.25,161.17,Debit Card,Shipped
+ORD10771,2025-03-04,CUST1031,Priya F.,Kolkata,Fashion,Sports Shoes,3,2199,5.0,6267.15,1739.13,Cash on Delivery,Delivered
+ORD10772,2025-04-19,CUST1164,Rahul A.,Bengaluru,Books,Self Help Book,1,549,5.0,521.55,87.36,Cash on Delivery,Shipped
+ORD10773,2025-01-21,CUST1079,Ravi Z.,Ahmedabad,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,UPI,Delivered
+ORD10774,2025-06-07,CUST1116,Lakshmi I.,Coimbatore,Books,Self Help Book,1,549,25.0,411.75,31.91,Debit Card,Delivered
+ORD10775,2025-09-26,CUST1129,Suresh I.,Mumbai,Electronics,Smart Watch,1,2499,5.0,2374.05,540.1,Credit Card,Delivered
+ORD10776,2025-06-11,CUST1047,Meena X.,Kolkata,Electronics,Smart Watch,1,2499,5.0,2374.05,540.1,Credit Card,Delivered
+ORD10777,2025-09-17,CUST1056,Arun P.,Delhi,Electronics,Smart Watch,1,2499,5.0,2374.05,540.1,UPI,Delivered
+ORD10778,2025-04-12,CUST1049,Manoj H.,Hyderabad,Electronics,Power Bank,3,899,0.0,2697.0,539.4,Debit Card,Delivered
+ORD10779,2025-08-11,CUST1068,Vikram G.,Hyderabad,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Cash on Delivery,Delivered
+ORD10780,2025-02-28,CUST1000,Vijay T.,Jaipur,Fashion,Sports Shoes,1,2199,5.0,2089.05,579.71,Cash on Delivery,Delivered
+ORD10781,2025-09-04,CUST1027,Hari C.,Coimbatore,Fashion,Women's Kurti,2,999,0.0,1998.0,639.36,Debit Card,Delivered
+ORD10782,2025-05-08,CUST1073,Anitha M.,Jaipur,Home & Kitchen,Mixer Grinder,1,3299,5.0,3134.05,493.61,Credit Card,Delivered
+ORD10783,2025-10-10,CUST1070,Anitha E.,Bengaluru,Fashion,Jeans,3,1599,15.0,4077.45,866.46,UPI,Delivered
+ORD10784,2025-11-21,CUST1140,Swathi N.,Ahmedabad,Electronics,Wireless Headphones,3,1499,10.0,0.0,0.0,Credit Card,Cancelled
+ORD10785,2025-01-25,CUST1088,Sneha X.,Chennai,Electronics,Wireless Headphones,2,1499,0.0,2998.0,839.44,UPI,Delivered
+ORD10786,2025-05-11,CUST1245,Pooja B.,Ahmedabad,Books,Novel,1,449,0.0,449.0,80.82,Debit Card,Delivered
+ORD10787,2025-12-19,CUST1013,Manoj J.,Delhi,Fashion,Women's Kurti,2,999,0.0,1998.0,639.36,Credit Card,Delivered
+ORD10788,2025-07-15,CUST1022,Pooja R.,Hyderabad,Fashion,Sports Shoes,2,2199,10.0,3958.2,1009.34,Debit Card,Delivered
+ORD10789,2025-10-08,CUST1026,Sneha H.,Kolkata,Books,Business Book,3,599,15.0,1527.45,202.39,Credit Card,Delivered
+ORD10790,2025-06-03,CUST1039,Meena U.,Ahmedabad,Home & Kitchen,Storage Container Set,2,799,20.0,1278.4,115.06,Net Banking,Delivered
+ORD10791,2025-05-13,CUST1159,Manoj Q.,Chennai,Home & Kitchen,Cookware Set,2,2499,0.0,4998.0,799.68,Credit Card,Delivered
+ORD10792,2025-08-15,CUST1009,Sneha F.,Bengaluru,Beauty,Shampoo,2,499,0.0,998.0,269.46,Credit Card,Delivered
+ORD10793,2025-07-08,CUST1132,Rahul T.,Ahmedabad,Fashion,Women's Kurti,2,999,20.0,1598.4,367.63,UPI,Shipped
+ORD10794,2025-09-22,CUST1029,Anitha R.,Delhi,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,Credit Card,Delivered
+ORD10795,2025-05-14,CUST1072,Hari K.,Jaipur,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,Credit Card,Delivered
+ORD10796,2025-07-30,CUST1081,Arun Y.,Jaipur,Fashion,Jeans,1,1599,0.0,1599.0,447.72,Net Banking,Delivered
+ORD10797,2025-03-01,CUST1024,Priya T.,Bengaluru,Beauty,Moisturizer,1,599,15.0,509.15,108.19,UPI,Delivered
+ORD10798,2025-12-30,CUST1049,Manoj H.,Hyderabad,Electronics,Wireless Headphones,2,1499,10.0,2698.2,634.08,Cash on Delivery,Delivered
+ORD10799,2025-12-30,CUST1030,Meena D.,Chennai,Electronics,Wireless Headphones,1,1499,20.0,1199.2,227.85,UPI,Delivered
+ORD10800,2025-08-01,CUST1001,Hari K.,Jaipur,Electronics,Bluetooth Speaker,1,1999,15.0,1699.15,259.12,UPI,Delivered
+ORD10801,2025-08-04,CUST1034,Sneha B.,Hyderabad,Beauty,Perfume,2,1299,15.0,2208.3,403.01,Credit Card,Delivered
+ORD10802,2025-08-14,CUST1002,Meena U.,Bengaluru,Fashion,Sports Shoes,2,2199,5.0,4178.1,1159.42,UPI,Delivered
+ORD10803,2025-05-11,CUST1029,Anitha R.,Delhi,Electronics,Bluetooth Speaker,1,1999,10.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10804,2025-03-17,CUST1069,Manoj T.,Kolkata,Fashion,Sports Shoes,1,2199,5.0,2089.05,579.71,Credit Card,Delivered
+ORD10805,2025-10-13,CUST1065,Suresh O.,Kolkata,Electronics,Smart Watch,3,2499,10.0,6747.3,1383.2,UPI,Delivered
+ORD10806,2025-10-04,CUST1090,Suresh T.,Mumbai,Electronics,Wireless Headphones,2,1499,20.0,2398.4,455.7,Cash on Delivery,Delivered
+ORD10807,2025-06-05,CUST1002,Meena U.,Bengaluru,Electronics,Power Bank,1,899,5.0,0.0,0.0,UPI,Cancelled
+ORD10808,2025-09-05,CUST1087,Vikram J.,Coimbatore,Beauty,Perfume,1,1299,0.0,1299.0,324.75,Credit Card,Delivered
+ORD10809,2025-08-06,CUST1016,Sneha W.,Jaipur,Fashion,Men's T-Shirt,4,699,0.0,0.0,0.0,UPI,Cancelled
+ORD10810,2025-07-09,CUST1028,Pooja Q.,Kolkata,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,Cash on Delivery,Delivered
+ORD10811,2025-06-12,CUST1170,Pooja X.,Coimbatore,Beauty,Face Wash,1,399,25.0,299.25,56.11,Credit Card,Delivered
+ORD10812,2025-06-29,CUST1000,Vijay T.,Jaipur,Fashion,Men's T-Shirt,2,699,0.0,1398.0,489.3,Net Banking,Delivered
+ORD10813,2025-02-03,CUST1068,Vikram G.,Hyderabad,Electronics,Smart Watch,5,2499,5.0,11870.25,2700.48,UPI,Delivered
+ORD10814,2025-02-10,CUST1071,Vijay M.,Ahmedabad,Electronics,Bluetooth Speaker,4,1999,10.0,7196.4,1259.37,Credit Card,Delivered
+ORD10815,2025-11-03,CUST1027,Hari C.,Coimbatore,Fashion,Sports Shoes,1,2199,0.0,2199.0,659.7,Cash on Delivery,Delivered
+ORD10816,2025-12-04,CUST1009,Sneha F.,Bengaluru,Electronics,Power Bank,3,899,0.0,2697.0,539.4,UPI,Delivered
+ORD10817,2025-11-10,CUST1009,Sneha F.,Bengaluru,Fashion,Jeans,1,1599,10.0,1439.1,338.19,Credit Card,Delivered
+ORD10818,2025-03-16,CUST1183,Lakshmi A.,Pune,Fashion,Women's Kurti,2,999,20.0,1598.4,367.63,Cash on Delivery,Delivered
+ORD10819,2025-10-06,CUST1035,Nandhini D.,Ahmedabad,Home & Kitchen,Electric Kettle,1,1299,5.0,1234.05,219.04,UPI,Delivered
+ORD10820,2025-06-25,CUST1018,Rahul E.,Ahmedabad,Electronics,Bluetooth Speaker,5,1999,0.0,9995.0,2198.9,UPI,Delivered
+ORD10821,2025-05-30,CUST1036,Pooja P.,Chennai,Fashion,Sports Shoes,1,2199,10.0,1979.1,504.67,Credit Card,Delivered
+ORD10822,2025-09-30,CUST1092,Lakshmi L.,Kolkata,Fashion,Women's Kurti,3,999,10.0,2697.3,741.76,UPI,Delivered
+ORD10823,2025-11-21,CUST1004,Vikram W.,Ahmedabad,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,UPI,Delivered
+ORD10824,2025-04-18,CUST1036,Pooja P.,Chennai,Books,Programming Book,2,799,15.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10825,2025-05-19,CUST1068,Vikram G.,Hyderabad,Beauty,Moisturizer,1,599,15.0,509.15,108.19,UPI,Delivered
+ORD10826,2025-12-16,CUST1218,Hari Q.,Jaipur,Fashion,Men's T-Shirt,1,699,20.0,559.2,145.39,Credit Card,Delivered
+ORD10827,2025-09-28,CUST1010,Priya U.,Coimbatore,Books,Programming Book,1,799,5.0,759.05,149.91,Debit Card,Delivered
+ORD10828,2025-12-13,CUST1022,Pooja R.,Hyderabad,Books,Programming Book,2,799,15.0,1358.3,207.14,Debit Card,Delivered
+ORD10829,2025-10-16,CUST1025,Hari G.,Chennai,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,Credit Card,Delivered
+ORD10830,2025-07-31,CUST1073,Anitha M.,Jaipur,Electronics,Power Bank,1,899,15.0,764.15,101.25,Debit Card,Delivered
+ORD10831,2025-09-29,CUST1022,Pooja R.,Hyderabad,Home & Kitchen,Storage Container Set,1,799,20.0,639.2,57.53,Debit Card,Delivered
+ORD10832,2025-03-07,CUST1054,Suresh H.,Ahmedabad,Books,Novel,3,449,5.0,1279.65,201.54,UPI,Delivered
+ORD10833,2025-09-05,CUST1135,Manoj H.,Delhi,Home & Kitchen,Electric Kettle,2,1299,25.0,1948.5,170.49,Credit Card,Delivered
+ORD10834,2025-06-05,CUST1105,Manoj F.,Bengaluru,Fashion,Women's Kurti,1,999,5.0,949.05,282.34,Credit Card,Delivered
+ORD10835,2025-02-16,CUST1036,Pooja P.,Chennai,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,UPI,Delivered
+ORD10836,2025-07-20,CUST1173,Priya Z.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,20.0,1039.2,114.31,UPI,Delivered
+ORD10837,2025-05-28,CUST1060,Rahul E.,Ahmedabad,Home & Kitchen,Cookware Set,1,2499,20.0,1999.2,139.94,Net Banking,Delivered
+ORD10838,2025-05-04,CUST1055,Sneha B.,Mumbai,Home & Kitchen,Electric Kettle,1,1299,0.0,1299.0,259.8,Cash on Delivery,Delivered
+ORD10839,2025-01-01,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Mixer Grinder,1,3299,0.0,3299.0,593.82,Debit Card,Delivered
+ORD10840,2025-09-04,CUST1241,Arun A.,Bengaluru,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,Credit Card,Shipped
+ORD10841,2025-12-09,CUST1003,Vijay Z.,Hyderabad,Electronics,Power Bank,1,899,5.0,854.05,151.59,UPI,Delivered
+ORD10842,2025-05-08,CUST1009,Sneha F.,Bengaluru,Home & Kitchen,Cookware Set,2,2499,0.0,4998.0,799.68,Cash on Delivery,Shipped
+ORD10843,2025-07-10,CUST1000,Vijay T.,Jaipur,Electronics,Power Bank,2,899,10.0,1618.2,250.82,UPI,Delivered
+ORD10844,2025-03-08,CUST1083,Suresh C.,Delhi,Fashion,Men's T-Shirt,2,699,20.0,1118.4,290.78,Debit Card,Delivered
+ORD10845,2025-01-04,CUST1008,Priya X.,Delhi,Electronics,Power Bank,4,899,10.0,3236.4,501.64,UPI,Delivered
+ORD10846,2025-10-30,CUST1005,Ravi K.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,Credit Card,Delivered
+ORD10847,2025-10-21,CUST1001,Hari K.,Jaipur,Electronics,Wireless Headphones,2,1499,0.0,2998.0,839.44,UPI,Shipped
+ORD10848,2025-05-23,CUST1002,Meena U.,Bengaluru,Electronics,Smart Watch,1,2499,20.0,1999.2,319.87,UPI,Delivered
+ORD10849,2025-07-10,CUST1067,Nandhini M.,Delhi,Beauty,Moisturizer,2,599,15.0,0.0,0.0,Debit Card,Cancelled
+ORD10850,2025-01-21,CUST1099,Arun S.,Kolkata,Fashion,Men's T-Shirt,4,699,20.0,2236.8,581.57,Cash on Delivery,Delivered
+ORD10851,2025-08-15,CUST1028,Pooja Q.,Kolkata,Fashion,Women's Kurti,1,999,10.0,899.1,247.25,Credit Card,Delivered
+ORD10852,2025-11-09,CUST1042,Ajay I.,Chennai,Fashion,Women's Kurti,2,999,15.0,1698.3,428.82,UPI,Delivered
+ORD10853,2025-04-27,CUST1098,Karthik A.,Pune,Home & Kitchen,Storage Container Set,2,799,0.0,1598.0,287.64,UPI,Delivered
+ORD10854,2025-10-29,CUST1000,Vijay T.,Jaipur,Books,Business Book,1,599,10.0,539.1,83.56,Cash on Delivery,Delivered
+ORD10855,2025-05-22,CUST1018,Rahul E.,Ahmedabad,Beauty,Moisturizer,1,599,20.0,479.2,91.05,UPI,Delivered
+ORD10856,2025-02-08,CUST1233,Keerthi W.,Bengaluru,Electronics,Smart Watch,3,2499,10.0,6747.3,1383.2,Credit Card,Delivered
+ORD10857,2025-12-21,CUST1066,Hari Z.,Jaipur,Beauty,Face Wash,1,399,0.0,399.0,119.7,Cash on Delivery,Delivered
+ORD10858,2025-09-09,CUST1011,Arun L.,Mumbai,Home & Kitchen,Mixer Grinder,1,3299,15.0,2804.15,315.47,UPI,Delivered
+ORD10859,2025-11-29,CUST1051,Arun E.,Delhi,Electronics,Wireless Headphones,3,1499,5.0,4272.15,1100.08,UPI,Delivered
+ORD10860,2025-07-26,CUST1020,Suresh G.,Hyderabad,Beauty,Face Wash,3,399,0.0,1197.0,359.1,Cash on Delivery,Delivered
+ORD10861,2025-07-29,CUST1054,Suresh H.,Ahmedabad,Fashion,Women's Kurti,4,999,15.0,3396.6,857.64,Debit Card,Delivered
+ORD10862,2025-04-25,CUST1003,Vijay Z.,Hyderabad,Electronics,Smart Watch,2,2499,0.0,4998.0,1249.5,UPI,Delivered
+ORD10863,2025-08-13,CUST1003,Vijay Z.,Hyderabad,Electronics,Smart Watch,2,2499,10.0,4498.2,922.13,Cash on Delivery,Delivered
+ORD10864,2025-05-14,CUST1003,Vijay Z.,Hyderabad,Home & Kitchen,Mixer Grinder,3,3299,5.0,9402.15,1480.84,Credit Card,Delivered
+ORD10865,2025-09-08,CUST1213,Vijay E.,Chennai,Electronics,Smart Watch,4,2499,5.0,9496.2,2160.39,Debit Card,Delivered
+ORD10866,2025-08-07,CUST1115,Lakshmi G.,Ahmedabad,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,UPI,Delivered
+ORD10867,2025-04-01,CUST1004,Vikram W.,Ahmedabad,Electronics,Smart Watch,1,2499,15.0,2124.15,387.66,UPI,Shipped
+ORD10868,2025-12-20,CUST1006,Anitha H.,Mumbai,Books,Self Help Book,1,549,5.0,521.55,87.36,Credit Card,Delivered
+ORD10869,2025-02-15,CUST1114,Rahul S.,Chennai,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,UPI,Delivered
+ORD10870,2025-02-07,CUST1004,Vikram W.,Ahmedabad,Home & Kitchen,Storage Container Set,1,799,25.0,599.25,40.45,UPI,Delivered
+ORD10871,2025-05-22,CUST1009,Sneha F.,Bengaluru,Electronics,Bluetooth Speaker,2,1999,10.0,3598.2,629.68,Debit Card,Delivered
+ORD10872,2025-04-10,CUST1227,Priya T.,Delhi,Fashion,Jeans,1,1599,5.0,1519.05,391.16,UPI,Delivered
+ORD10873,2025-11-24,CUST1011,Arun L.,Mumbai,Home & Kitchen,Electric Kettle,1,1299,0.0,0.0,0.0,UPI,Cancelled
+ORD10874,2025-07-09,CUST1090,Suresh T.,Mumbai,Fashion,Men's T-Shirt,1,699,5.0,664.05,217.48,UPI,Delivered
+ORD10875,2025-02-04,CUST1236,Sneha R.,Pune,Fashion,Jeans,3,1599,0.0,0.0,0.0,UPI,Cancelled
+ORD10876,2025-05-27,CUST1024,Priya T.,Bengaluru,Fashion,Sports Shoes,1,2199,10.0,1979.1,504.67,Debit Card,Delivered
+ORD10877,2025-01-30,CUST1000,Vijay T.,Jaipur,Books,Self Help Book,2,549,20.0,878.4,87.84,Credit Card,Delivered
+ORD10878,2025-11-30,CUST1010,Priya U.,Coimbatore,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,UPI,Delivered
+ORD10879,2025-03-25,CUST1157,Keerthi S.,Chennai,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,Cash on Delivery,Delivered
+ORD10880,2025-10-08,CUST1173,Priya Z.,Kolkata,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,UPI,Delivered
+ORD10881,2025-12-10,CUST1129,Suresh I.,Mumbai,Books,Self Help Book,2,549,0.0,1098.0,208.62,Credit Card,Delivered
+ORD10882,2025-09-27,CUST1002,Meena U.,Bengaluru,Beauty,Face Wash,5,399,15.0,1695.75,394.26,Debit Card,Delivered
+ORD10883,2025-06-03,CUST1141,Swathi B.,Jaipur,Home & Kitchen,Cookware Set,1,2499,20.0,1999.2,139.94,Debit Card,Delivered
+ORD10884,2025-04-12,CUST1201,Keerthi M.,Delhi,Electronics,Wireless Headphones,1,1499,5.0,1424.05,366.69,Debit Card,Delivered
+ORD10885,2025-08-03,CUST1071,Vijay M.,Ahmedabad,Electronics,Smart Watch,1,2499,15.0,2124.15,387.66,Credit Card,Delivered
+ORD10886,2025-05-30,CUST1214,Rahul L.,Coimbatore,Home & Kitchen,Mixer Grinder,2,3299,0.0,6598.0,1187.64,Cash on Delivery,Delivered
+ORD10887,2025-03-24,CUST1155,Arun O.,Mumbai,Home & Kitchen,Storage Container Set,1,799,20.0,639.2,57.53,Credit Card,Delivered
+ORD10888,2025-04-20,CUST1092,Lakshmi L.,Kolkata,Electronics,Wireless Headphones,3,1499,5.0,4272.15,1100.08,Cash on Delivery,Delivered
+ORD10889,2025-10-02,CUST1065,Suresh O.,Kolkata,Electronics,Wireless Headphones,5,1499,15.0,6370.75,1353.78,UPI,Delivered
+ORD10890,2025-07-20,CUST1021,Swathi D.,Chennai,Electronics,Power Bank,1,899,5.0,854.05,151.59,Credit Card,Delivered
+ORD10891,2025-10-11,CUST1004,Vikram W.,Ahmedabad,Home & Kitchen,Electric Kettle,1,1299,10.0,1169.1,181.21,Debit Card,Delivered
+ORD10892,2025-06-22,CUST1073,Anitha M.,Jaipur,Home & Kitchen,Electric Kettle,2,1299,15.0,2208.3,292.6,Cash on Delivery,Delivered
+ORD10893,2025-11-23,CUST1017,Lakshmi Y.,Delhi,Electronics,Bluetooth Speaker,4,1999,20.0,6396.8,831.58,Credit Card,Delivered
+ORD10894,2025-07-25,CUST1174,Manoj H.,Coimbatore,Home & Kitchen,Electric Kettle,3,1299,5.0,3702.15,657.13,Credit Card,Delivered
+ORD10895,2025-03-04,CUST1245,Pooja B.,Ahmedabad,Fashion,Sports Shoes,2,2199,10.0,3958.2,1009.34,UPI,Delivered
+ORD10896,2025-03-14,CUST1123,Vijay P.,Pune,Home & Kitchen,Electric Kettle,2,1299,0.0,2598.0,519.6,UPI,Delivered
+ORD10897,2025-09-08,CUST1001,Hari K.,Jaipur,Electronics,Bluetooth Speaker,4,1999,5.0,7596.2,1500.25,UPI,Delivered
+ORD10898,2025-05-04,CUST1014,Keerthi O.,Ahmedabad,Beauty,Perfume,3,1299,10.0,3507.3,719.0,Credit Card,Delivered
+ORD10899,2025-05-01,CUST1002,Meena U.,Bengaluru,Fashion,Men's T-Shirt,1,699,0.0,699.0,244.65,Credit Card,Delivered
+ORD10900,2025-10-02,CUST1086,Karthik A.,Hyderabad,Home & Kitchen,Cookware Set,2,2499,0.0,0.0,0.0,Debit Card,Cancelled
+ORD10901,2025-04-30,CUST1128,Karthik E.,Hyderabad,Beauty,Perfume,1,1299,10.0,1169.1,239.67,UPI,Delivered
+ORD10902,2025-11-13,CUST1205,Karthik Z.,Hyderabad,Fashion,Jeans,2,1599,0.0,3198.0,895.44,UPI,Delivered
+ORD10903,2025-06-13,CUST1034,Sneha B.,Hyderabad,Beauty,Moisturizer,3,599,5.0,1707.15,439.59,Credit Card,Delivered
+ORD10904,2025-10-13,CUST1192,Hari V.,Pune,Electronics,Power Bank,4,899,15.0,3056.6,405.0,UPI,Delivered
+ORD10905,2025-09-22,CUST1180,Ajay Z.,Delhi,Home & Kitchen,Electric Kettle,3,1299,0.0,3897.0,779.4,UPI,Delivered
+ORD10906,2025-11-16,CUST1017,Lakshmi Y.,Delhi,Home & Kitchen,Cookware Set,3,2499,0.0,7497.0,1199.52,UPI,Delivered
+ORD10907,2025-06-10,CUST1175,Arun I.,Chennai,Electronics,Smart Watch,3,2499,5.0,7122.15,1620.29,UPI,Delivered
+ORD10908,2025-11-04,CUST1024,Priya T.,Bengaluru,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,Cash on Delivery,Delivered
+ORD10909,2025-03-30,CUST1015,Hari S.,Mumbai,Beauty,Face Wash,2,399,5.0,758.1,210.37,Net Banking,Delivered
+ORD10910,2025-05-22,CUST1086,Karthik A.,Hyderabad,Fashion,Sports Shoes,2,2199,0.0,4398.0,1319.4,Debit Card,Delivered
+ORD10911,2025-07-22,CUST1018,Rahul E.,Ahmedabad,Beauty,Shampoo,1,499,5.0,474.05,117.33,Debit Card,Delivered
+ORD10912,2025-11-05,CUST1080,Vijay A.,Bengaluru,Home & Kitchen,Storage Container Set,1,799,10.0,719.1,97.08,UPI,Delivered
+ORD10913,2025-08-15,CUST1074,Vijay S.,Chennai,Fashion,Women's Kurti,2,999,0.0,1998.0,639.36,Net Banking,Delivered
+ORD10914,2025-11-30,CUST1061,Hari N.,Kolkata,Home & Kitchen,Cookware Set,1,2499,10.0,2249.1,258.65,Net Banking,Delivered
+ORD10915,2025-08-10,CUST1025,Hari G.,Chennai,Electronics,Power Bank,4,899,5.0,3416.2,606.38,Credit Card,Delivered
+ORD10916,2025-02-10,CUST1058,Sneha H.,Delhi,Fashion,Women's Kurti,3,999,15.0,2547.45,643.23,Debit Card,Delivered
+ORD10917,2025-07-15,CUST1070,Anitha E.,Bengaluru,Electronics,Bluetooth Speaker,1,1999,20.0,1599.2,207.9,Net Banking,Delivered
+ORD10918,2025-03-09,CUST1057,Karthik C.,Mumbai,Home & Kitchen,Electric Kettle,2,1299,20.0,0.0,0.0,UPI,Cancelled
+ORD10919,2025-09-21,CUST1035,Nandhini D.,Ahmedabad,Electronics,Power Bank,1,899,15.0,764.15,101.25,Credit Card,Delivered
+ORD10920,2025-01-02,CUST1000,Vijay T.,Jaipur,Electronics,Wireless Headphones,2,1499,15.0,2548.3,541.51,Debit Card,Delivered
+ORD10921,2025-12-27,CUST1068,Vikram G.,Hyderabad,Fashion,Jeans,1,1599,10.0,1439.1,338.19,UPI,Delivered
+ORD10922,2025-05-05,CUST1005,Ravi K.,Kolkata,Books,Programming Book,2,799,15.0,1358.3,207.14,UPI,Delivered
+ORD10923,2025-04-20,CUST1084,Vijay F.,Delhi,Fashion,Jeans,3,1599,10.0,4317.3,1014.57,Credit Card,Delivered
+ORD10924,2025-03-27,CUST1126,Priya A.,Mumbai,Fashion,Men's T-Shirt,1,699,15.0,594.15,167.85,Credit Card,Delivered
+ORD10925,2025-04-30,CUST1046,Arun L.,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3299,0.0,3299.0,593.82,Credit Card,Delivered
+ORD10926,2025-05-07,CUST1056,Arun P.,Delhi,Fashion,Men's T-Shirt,2,699,10.0,1258.2,383.75,Debit Card,Delivered
+ORD10927,2025-09-12,CUST1220,Karthik L.,Bengaluru,Fashion,Women's Kurti,1,999,0.0,999.0,319.68,Net Banking,Delivered
+ORD10928,2025-07-02,CUST1165,Lakshmi U.,Hyderabad,Home & Kitchen,Storage Container Set,1,799,0.0,799.0,143.82,Credit Card,Delivered
+ORD10929,2025-01-16,CUST1199,Hari C.,Kolkata,Fashion,Sports Shoes,1,2199,20.0,1759.2,369.43,Debit Card,Delivered
+ORD10930,2025-03-03,CUST1149,Arun P.,Jaipur,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,Credit Card,Delivered
+ORD10931,2025-06-07,CUST1002,Meena U.,Bengaluru,Home & Kitchen,Cookware Set,4,2499,0.0,9996.0,1599.36,Credit Card,Delivered
+ORD10932,2025-09-25,CUST1004,Vikram W.,Ahmedabad,Home & Kitchen,Storage Container Set,1,799,5.0,759.05,119.55,Debit Card,Shipped
+ORD10933,2025-02-04,CUST1052,Nandhini G.,Delhi,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,UPI,Delivered
+ORD10934,2025-09-24,CUST1010,Priya U.,Coimbatore,Home & Kitchen,Mixer Grinder,1,3299,10.0,2969.1,400.83,Credit Card,Delivered
+ORD10935,2025-03-05,CUST1042,Ajay I.,Chennai,Electronics,Smart Watch,2,2499,5.0,4748.1,1080.19,Credit Card,Delivered
+ORD10936,2025-02-19,CUST1027,Hari C.,Coimbatore,Electronics,Power Bank,3,899,10.0,2427.3,376.23,Cash on Delivery,Delivered
+ORD10937,2025-09-12,CUST1058,Sneha H.,Delhi,Electronics,Wireless Headphones,2,1499,0.0,2998.0,839.44,UPI,Delivered
+ORD10938,2025-05-29,CUST1121,Swathi W.,Jaipur,Home & Kitchen,Cookware Set,3,2499,15.0,6372.45,589.45,UPI,Delivered
+ORD10939,2025-11-21,CUST1109,Keerthi A.,Ahmedabad,Electronics,Smart Watch,1,2499,5.0,2374.05,540.1,Debit Card,Shipped
+ORD10940,2025-10-31,CUST1051,Arun E.,Delhi,Books,Self Help Book,5,549,25.0,2058.75,159.55,UPI,Returned
+ORD10941,2025-10-03,CUST1153,Vikram V.,Delhi,Beauty,Face Wash,3,399,5.0,1137.15,315.56,Credit Card,Delivered
+ORD10942,2025-12-23,CUST1033,Swathi Z.,Ahmedabad,Beauty,Shampoo,3,499,15.0,1272.45,257.67,UPI,Delivered
+ORD10943,2025-06-21,CUST1190,Manoj T.,Delhi,Home & Kitchen,Cookware Set,1,2499,5.0,2374.05,326.43,Credit Card,Delivered
+ORD10944,2025-07-20,CUST1001,Hari K.,Jaipur,Electronics,Bluetooth Speaker,1,1999,0.0,1999.0,439.78,UPI,Delivered
+ORD10945,2025-11-20,CUST1222,Keerthi U.,Pune,Electronics,Wireless Headphones,1,1499,15.0,0.0,0.0,Credit Card,Cancelled
+ORD10946,2025-02-04,CUST1088,Sneha X.,Chennai,Fashion,Sports Shoes,4,2199,20.0,7036.8,1477.73,Debit Card,Delivered
+ORD10947,2025-08-04,CUST1025,Hari G.,Chennai,Electronics,Power Bank,1,899,0.0,899.0,179.8,Cash on Delivery,Delivered
+ORD10948,2025-03-06,CUST1006,Anitha H.,Mumbai,Fashion,Sports Shoes,1,2199,25.0,1649.25,309.23,UPI,Delivered
+ORD10949,2025-01-08,CUST1042,Ajay I.,Chennai,Electronics,Wireless Headphones,1,1499,5.0,0.0,0.0,Debit Card,Cancelled
+ORD10950,2025-10-28,CUST1006,Anitha H.,Mumbai,Beauty,Face Wash,1,399,25.0,299.25,56.11,Debit Card,Delivered
+ORD10951,2025-12-09,CUST1005,Ravi K.,Kolkata,Home & Kitchen,Electric Kettle,1,1299,15.0,1104.15,146.3,UPI,Delivered
+ORD10952,2025-11-28,CUST1076,Ajay Y.,Kolkata,Home & Kitchen,Cookware Set,4,2499,20.0,7996.8,559.78,Cash on Delivery,Delivered
+ORD10953,2025-03-17,CUST1052,Nandhini G.,Delhi,Electronics,Wireless Headphones,2,1499,5.0,2848.1,733.39,UPI,Delivered
+ORD10954,2025-06-23,CUST1093,Vijay B.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,10.0,1799.1,314.84,UPI,Delivered
+ORD10955,2025-02-16,CUST1208,Arun O.,Ahmedabad,Beauty,Face Wash,1,399,0.0,399.0,119.7,UPI,Delivered
+ORD10956,2025-01-15,CUST1054,Suresh H.,Ahmedabad,Books,Business Book,4,599,10.0,0.0,0.0,UPI,Cancelled
+ORD10957,2025-12-27,CUST1066,Hari Z.,Jaipur,Fashion,Jeans,4,1599,10.0,5756.4,1352.75,Debit Card,Delivered
+ORD10958,2025-05-27,CUST1001,Hari K.,Jaipur,Fashion,Men's T-Shirt,2,699,10.0,1258.2,383.75,UPI,Delivered
+ORD10959,2025-01-26,CUST1109,Keerthi A.,Ahmedabad,Beauty,Moisturizer,2,599,0.0,1198.0,335.44,Debit Card,Delivered
+ORD10960,2025-11-04,CUST1028,Pooja Q.,Kolkata,Beauty,Perfume,3,1299,5.0,3702.15,842.24,Debit Card,Delivered
+ORD10961,2025-04-03,CUST1235,Lakshmi X.,Kolkata,Books,Self Help Book,1,549,15.0,466.65,57.16,UPI,Delivered
+ORD10962,2025-08-20,CUST1153,Vikram V.,Delhi,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Debit Card,Delivered
+ORD10963,2025-01-21,CUST1051,Arun E.,Delhi,Fashion,Men's T-Shirt,1,699,10.0,629.1,191.88,Debit Card,Delivered
+ORD10964,2025-11-03,CUST1003,Vijay Z.,Hyderabad,Fashion,Jeans,2,1599,10.0,2878.2,676.38,Net Banking,Delivered
+ORD10965,2025-02-07,CUST1171,Swathi O.,Bengaluru,Beauty,Face Wash,1,399,25.0,299.25,56.11,UPI,Delivered
+ORD10966,2025-10-03,CUST1143,Suresh D.,Pune,Books,Programming Book,1,799,0.0,799.0,175.78,Cash on Delivery,Delivered
+ORD10967,2025-06-06,CUST1006,Anitha H.,Mumbai,Books,Programming Book,2,799,0.0,1598.0,351.56,Debit Card,Delivered
+ORD10968,2025-06-28,CUST1014,Keerthi O.,Ahmedabad,Electronics,Bluetooth Speaker,1,1999,20.0,1599.2,207.9,Cash on Delivery,Delivered
+ORD10969,2025-05-12,CUST1140,Swathi N.,Ahmedabad,Electronics,Wireless Headphones,1,1499,15.0,1274.15,270.76,Net Banking,Delivered
+ORD10970,2025-11-07,CUST1006,Anitha H.,Mumbai,Beauty,Face Wash,1,399,15.0,339.15,78.85,UPI,Delivered
+ORD10971,2025-12-14,CUST1201,Keerthi M.,Delhi,Home & Kitchen,Mixer Grinder,1,3299,20.0,2639.2,237.53,Debit Card,Delivered
+ORD10972,2025-01-28,CUST1032,Nandhini D.,Kolkata,Fashion,Women's Kurti,3,999,15.0,0.0,0.0,Cash on Delivery,Cancelled
+ORD10973,2025-09-17,CUST1001,Hari K.,Jaipur,Electronics,Wireless Headphones,1,1499,0.0,1499.0,419.72,Credit Card,Delivered
+ORD10974,2025-03-17,CUST1150,Sneha S.,Coimbatore,Home & Kitchen,Storage Container Set,1,799,15.0,679.15,76.4,Debit Card,Delivered
+ORD10975,2025-03-08,CUST1024,Priya T.,Bengaluru,Home & Kitchen,Storage Container Set,2,799,0.0,1598.0,287.64,UPI,Delivered
+ORD10976,2025-12-08,CUST1052,Nandhini G.,Delhi,Beauty,Shampoo,3,499,0.0,1497.0,404.19,UPI,Delivered
+ORD10977,2025-07-13,CUST1002,Meena U.,Bengaluru,Electronics,Smart Watch,1,2499,10.0,2249.1,461.07,Debit Card,Delivered
+ORD10978,2025-06-11,CUST1000,Vijay T.,Jaipur,Home & Kitchen,Mixer Grinder,1,3299,15.0,2804.15,315.47,Cash on Delivery,Delivered
+ORD10979,2025-12-13,CUST1082,Lakshmi M.,Bengaluru,Fashion,Sports Shoes,2,2199,20.0,3518.4,738.86,Credit Card,Delivered
+ORD10980,2025-12-27,CUST1050,Rahul C.,Jaipur,Fashion,Jeans,2,1599,5.0,0.0,0.0,UPI,Cancelled
+ORD10981,2025-09-14,CUST1069,Manoj T.,Kolkata,Electronics,Power Bank,2,899,10.0,1618.2,250.82,UPI,Delivered
+ORD10982,2025-03-13,CUST1140,Swathi N.,Ahmedabad,Fashion,Men's T-Shirt,2,699,15.0,1188.3,335.69,Credit Card,Delivered
+ORD10983,2025-03-28,CUST1085,Meena I.,Pune,Electronics,Bluetooth Speaker,2,1999,20.0,3198.4,415.79,Debit Card,Delivered
+ORD10984,2025-09-19,CUST1005,Ravi K.,Kolkata,Fashion,Sports Shoes,1,2199,15.0,1869.15,434.58,UPI,Delivered
+ORD10985,2025-08-02,CUST1022,Pooja R.,Hyderabad,Fashion,Sports Shoes,1,2199,0.0,2199.0,659.7,Credit Card,Delivered
+ORD10986,2025-06-02,CUST1194,Arun H.,Delhi,Fashion,Jeans,1,1599,5.0,1519.05,391.16,Credit Card,Delivered
+ORD10987,2025-07-29,CUST1130,Rahul S.,Ahmedabad,Fashion,Jeans,4,1599,5.0,6076.2,1564.62,Cash on Delivery,Delivered
+ORD10988,2025-03-02,CUST1060,Rahul E.,Ahmedabad,Books,Business Book,1,599,0.0,599.0,119.8,UPI,Delivered
+ORD10989,2025-09-25,CUST1011,Arun L.,Mumbai,Books,Business Book,1,599,10.0,539.1,83.56,Net Banking,Delivered
+ORD10990,2025-09-19,CUST1015,Hari S.,Mumbai,Home & Kitchen,Storage Container Set,4,799,5.0,3036.2,478.2,UPI,Shipped
+ORD10991,2025-08-06,CUST1115,Lakshmi G.,Ahmedabad,Fashion,Women's Kurti,1,999,10.0,899.1,247.25,UPI,Delivered
+ORD10992,2025-10-10,CUST1166,Arun C.,Delhi,Electronics,Smart Watch,3,2499,25.0,5622.75,773.13,Credit Card,Delivered
+ORD10993,2025-05-16,CUST1093,Vijay B.,Ahmedabad,Electronics,Wireless Headphones,1,1499,10.0,1349.1,317.04,UPI,Delivered
+ORD10994,2025-12-28,CUST1147,Meena G.,Jaipur,Electronics,Power Bank,1,899,10.0,0.0,0.0,Debit Card,Cancelled
+ORD10995,2025-04-03,CUST1129,Suresh I.,Mumbai,Fashion,Women's Kurti,1,999,10.0,899.1,247.25,UPI,Delivered
+ORD10996,2025-04-19,CUST1004,Vikram W.,Ahmedabad,Fashion,Men's T-Shirt,5,699,10.0,3145.5,959.38,Cash on Delivery,Delivered
+ORD10997,2025-08-29,CUST1032,Nandhini D.,Kolkata,Fashion,Jeans,1,1599,15.0,1359.15,288.82,UPI,Delivered
+ORD10998,2025-12-21,CUST1004,Vikram W.,Ahmedabad,Home & Kitchen,Cookware Set,2,2499,10.0,4498.2,517.29,Debit Card,Delivered
+ORD10999,2025-05-22,CUST1009,Sneha F.,Bengaluru,Books,Business Book,1,599,20.0,0.0,0.0,UPI,Cancelled
+ORD11000,2025-10-18,CUST1175,Arun I.,Chennai,Home & Kitchen,Cookware Set,3,2499,10.0,6747.3,775.94,Debit Card,Delivered

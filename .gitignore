@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python virtual environment
+venv/
+.venv/
+
+# Temporary files
+*.tmp
+*.log
